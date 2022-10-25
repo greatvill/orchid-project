@@ -6,10 +6,13 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "guzzlehttp/guzzle": "^7.2",
+        "ext-curl": "*",
+        "ext-simplexml": "*",
+        "guzzlehttp/guzzle": "^7.0",
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
+        "orchestra/parser": "^7.0",
         "orchid/platform": "^13.6"
     },
     "require-dev": {
