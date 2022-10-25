@@ -1,5 +1,7 @@
 <?php
 
+use App\Orchid\Screens\NewsScreen;
+use App\Orchid\Screens\RequestsScreen;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,8 +15,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
-Route::screen('users', \App\Orchid\Screens\User\UserListScreen::class)->name('users');
+Route::screen('/', \App\Orchid\Screens\User\UserListScreen::class)->name('platform.email');
+Route::screen('news', NewsScreen::class)->name('news');
+Route::screen('requests', RequestsScreen::class)->name('requests');
