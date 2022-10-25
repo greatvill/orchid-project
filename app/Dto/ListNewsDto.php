@@ -2,19 +2,19 @@
 
 namespace App\Dto;
 
-class ListNewsDto
+class ListNewsDto implements DtoInterface
 {
     /**
      * @var NewsDto[]
      */
-    public array $newsDto;
+    public array $newsDto = [];
 
     public function add(NewsDto $dto): void
     {
         $this->newsDto[] = $dto;
     }
 
-    public function getNews(): array
+    public function toArray(): array
     {
         return $this->newsDto;
     }

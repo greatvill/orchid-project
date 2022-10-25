@@ -17,6 +17,7 @@ class Client implements ClientInterface
 
     /**
      * @throws GuzzleException
+     * @throws \Exception
      */
     public function get(string $url, array $params = []): string
     {
@@ -30,10 +31,11 @@ class Client implements ClientInterface
             'code' => $response->getStatusCode(),
         ];
         $this->saveRequest($data);
-        if ($response->getStatusCode() === 200) {
+        if ($content || $response->getStatusCode() === 200) {
             Log::info('Response is success');
         } else {
             Log::info('Response is uncorrected');
+            throw new \Exception('Empty body');
         }
 
         return $content;

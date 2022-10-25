@@ -2,6 +2,7 @@
 
 namespace App\Repositories;
 
+use App\Dto\ListNewsDto;
 use App\Dto\NewsDto;
 use App\Models\News;
 use Illuminate\Support\Facades\DB;
@@ -15,9 +16,12 @@ class NewsRepository implements NewsRepositoryInterface
         $this->model = $model;
     }
 
-    public function insertMany(array $rows)
+    public function insertMany(array|ListNewsDto $rows)
     {
         $insert = [];
+        if ($rows instanceof ListNewsDto) {
+            $rows = $rows->toArray();
+        }
         foreach ($rows as $row) {
             if ($row instanceof NewsDto) {
                 $insert[] = $row->toArray();

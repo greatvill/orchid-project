@@ -31,7 +31,7 @@ class ParserService
     {
         Log::info('Start parse');
         $content = $this->client->get($this->url);
-        $newsDtoArray = $this->parser->parse($content)->getNews();
+        $newsDtoArray = $this->parser->parse($content)->toArray();
         foreach (array_chunk($newsDtoArray, self::CHUNCK) as $newsDtoChunk) {
             $this->insertMany($newsDtoChunk);
         }

@@ -3,9 +3,8 @@
 namespace App\Dto;
 
 use Carbon\Carbon;
-use Illuminate\Contracts\Support\Arrayable;
 
-class NewsDto implements Arrayable
+class NewsDto implements DtoInterface
 {
     public function __construct(public string|null $title,
                                 public string|null $link,
