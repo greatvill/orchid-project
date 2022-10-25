@@ -15,9 +15,9 @@ class ParserService
     const CHUNCK = 1000;
 
     public function __construct(
-        protected ClientInterface $client,
+        protected ClientInterface         $client,
         protected NewsRepositoryInterface $newsRepository,
-        protected ParserInterface $parser,
+        protected ParserInterface         $parser,
     )
     {
         $this->url = env('SOURCE_LINK');
@@ -31,8 +31,13 @@ class ParserService
     {
         Log::info('Start parse');
         $content = $this->client->get($this->url);
-        $newsDtoArray = $this->parser->parse($content)->toArray();
-        foreach (array_chunk($newsDtoArray, self::CHUNCK) as $newsDtoChunk) {
+        $newsFromParser = $this->parser->parse($content)->toArray();
+        $existingGuids = $this->newsRepository->get(['guid'])->toArray();
+        $existingGuids = collect($existingGuids)->map(fn(NewsDto $item) => $item->guid)->toArray();
+        $newsFromParser = collect($newsFromParser)
+            ->filter(fn(NewsDto $item) => !in_array($item->guid, $existingGuids, true))
+            ->toArray();
+        foreach (array_chunk($newsFromParser, self::CHUNCK) as $newsDtoChunk) {
             $this->insertMany($newsDtoChunk);
         }
         Log::info('Parse ended');

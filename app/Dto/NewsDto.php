@@ -12,7 +12,8 @@ class NewsDto implements DtoInterface
                                 public string|null $pubDate,
                                 public string|null $author,
                                 public string|null $image,
-                                public Carbon|null    $createdAt,
+                                public Carbon|null $createdAt,
+                                public string|null $guid,
     )
     {
     }
@@ -27,19 +28,22 @@ class NewsDto implements DtoInterface
             'author' => $this->author,
             'image' => $this->image,
             'created_at' => $this->createdAt,
+            'guid' => $this->guid,
         ];
     }
 
     public static function createFromArray(array $data): NewsDto
     {
         return new self(
-            $data['title'],
-            $data['link'],
-            $data['description'],
-            $data['pub_date'],
-            $data['author'],
-            $data['image'],
-            $data['created_at']);
+            $data['title'] ?? null,
+            $data['link'] ?? null,
+            $data['description'] ?? null,
+            $data['pub_date'] ?? null,
+            $data['author'] ?? null,
+            $data['image'] ?? null,
+            $data['created_at'] ?? null,
+            $data['guid'] ?? null,
+        );
 
     }
 }

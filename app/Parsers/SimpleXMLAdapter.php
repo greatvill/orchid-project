@@ -30,6 +30,7 @@ class SimpleXMLAdapter implements ParserInterface
                     'author' => $element->author ?? null,
                     'image' => $element->enclosure->attributes()['url'] ?? null,
                     'created_at' => now(),
+                    'guid' => $element->guid,
                 ]));
             }
             return $result;

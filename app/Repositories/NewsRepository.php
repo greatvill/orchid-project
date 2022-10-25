@@ -32,9 +32,29 @@ class NewsRepository implements NewsRepositoryInterface
         $this->model->newQuery()->insert($insert);
     }
 
-    public function get()
+    public function get(array $select = [], array $where = [], int $limit = 30): ListNewsDto
     {
-        // TODO: Implement get() method.
+        $list = $this->model->newQuery()
+            ->select($select)
+            ->where($where)
+            ->limit($limit)
+            ->orderByDesc('id')
+            ->get()
+            ->map(function (News $item) {
+                $ats = $item->only([
+                    'title',
+                    'link',
+                    'description',
+                    'pub_date',
+                    'author',
+                    'image',
+                    'created_at',
+                    'guid',
+                ]);
+                return NewsDto::createFromArray($ats);
+            })->all();
+
+        return new ListNewsDto($list);
     }
 
     public function insert(NewsDto|array $data)

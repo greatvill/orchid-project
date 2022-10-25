@@ -9,7 +9,7 @@ interface NewsRepositoryInterface
 {
     public function insertMany(ListNewsDto|array $rows);
 
-    public function get();
+    public function get(array $select = [], array $where = [], int $limit = 30): ListNewsDto;
 
     public function insert(NewsDto|array $data);
 }

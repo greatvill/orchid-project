@@ -34,8 +34,8 @@ class Client implements ClientInterface
         if ($content || $response->getStatusCode() === 200) {
             Log::info('Response is success');
         } else {
-            Log::info('Response is uncorrected');
-            throw new \Exception('Empty body');
+            Log::error('Response is uncorrected');
+            throw new \Exception('Response is uncorrected');
         }
 
         return $content;
