@@ -2,11 +2,12 @@
 
 namespace App\Services;
 
+use App\Clients\ClientInterface;
+use App\Dto\NewsDto;
 use App\Parsers\ParserInterface;
 use App\Repositories\NewsRepositoryInterface;
 use GuzzleHttp\Exception\GuzzleException;
 use Illuminate\Support\Facades\Log;
-use Psr\Http\Client\ClientInterface;
 
 class XmlParserService
 {
@@ -28,6 +29,7 @@ class XmlParserService
      */
     public function parse(): void
     {
+        Log::info('Start parse');
         $response = $this->client->get($this->url);
         $content = $response->getBody()->getContents();
         $items = $this->parser->parse($content)->toArray();
@@ -35,10 +37,14 @@ class XmlParserService
         foreach ($itemsChunked as $rows) {
             $this->insertMany($rows);
         }
+        Log::info('Parse ended');
     }
 
     protected function insertOneByOne($insert): void
     {
+        /**
+         * @var $item NewsDto
+         */
         foreach ($insert as $item) {
             try {
                 $this->newsRepository->insert($item->toArray());
