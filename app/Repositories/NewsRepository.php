@@ -2,6 +2,7 @@
 
 namespace App\Repositories;
 
+use App\Dto\NewsDto;
 use App\Models\News;
 use Illuminate\Support\Facades\DB;
 
@@ -16,7 +17,15 @@ class NewsRepository implements NewsRepositoryInterface
 
     public function insertMany(array $rows)
     {
-        $this->model->newQuery()->insert($rows);
+        $insert = [];
+        foreach ($rows as $row) {
+            if ($row instanceof NewsDto) {
+                $insert[] = $row->toArray();
+            } elseif (is_array($row)) {
+                $insert[] = array_filter($row);
+            }
+        }
+        $this->model->newQuery()->insert($insert);
     }
 
     public function get()
@@ -24,8 +33,11 @@ class NewsRepository implements NewsRepositoryInterface
         // TODO: Implement get() method.
     }
 
-    public function insert(array $data)
+    public function insert(NewsDto|array $data)
     {
-        $this->model->newQuery()->insert($data);
+        if ($data instanceof NewsDto) {
+            $data = $data->toArray();
+        }
+        $this->model->newQuery()->insert(array_filter($data));
     }
 }

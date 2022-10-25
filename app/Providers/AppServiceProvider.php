@@ -6,9 +6,9 @@ use App\Parsers\ParserInterface;
 use App\Parsers\SimpleXMLAdapter;
 use App\Repositories\NewsRepository;
 use App\Repositories\NewsRepositoryInterface;
-use GuzzleHttp\Client;
+use App\Clients\Client;
 use Illuminate\Support\ServiceProvider;
-use Psr\Http\Client\ClientInterface;
+use App\Clients\ClientInterface;
 
 class AppServiceProvider extends ServiceProvider
 {

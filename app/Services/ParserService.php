@@ -9,7 +9,7 @@ use App\Repositories\NewsRepositoryInterface;
 use GuzzleHttp\Exception\GuzzleException;
 use Illuminate\Support\Facades\Log;
 
-class XmlParserService
+class ParserService
 {
     private string $url;
     const CHUNCK = 1000;
@@ -30,12 +30,10 @@ class XmlParserService
     public function parse(): void
     {
         Log::info('Start parse');
-        $response = $this->client->get($this->url);
-        $content = $response->getBody()->getContents();
-        $items = $this->parser->parse($content)->toArray();
-        $itemsChunked = array_chunk($items, self::CHUNCK);
-        foreach ($itemsChunked as $rows) {
-            $this->insertMany($rows);
+        $content = $this->client->get($this->url);
+        $newsDtoArray = $this->parser->parse($content)->getNews();
+        foreach (array_chunk($newsDtoArray, self::CHUNCK) as $newsDtoChunk) {
+            $this->insertMany($newsDtoChunk);
         }
         Log::info('Parse ended');
     }
@@ -47,7 +45,7 @@ class XmlParserService
          */
         foreach ($insert as $item) {
             try {
-                $this->newsRepository->insert($item->toArray());
+                $this->newsRepository->insert($item);
             } catch (\Throwable $e) {
                 Log::error($e->getMessage());
             }

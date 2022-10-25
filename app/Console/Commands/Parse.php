@@ -2,7 +2,7 @@
 
 namespace App\Console\Commands;
 
-use App\Services\XmlParserService;
+use App\Services\ParserService;
 use GuzzleHttp\Exception\GuzzleException;
 use Illuminate\Console\Command;
 
@@ -28,7 +28,7 @@ class Parse extends Command
      * @return int
      * @throws GuzzleException
      */
-    public function handle(XmlParserService $parserService)
+    public function handle(ParserService $parserService)
     {
         $parserService->parse();
         return Command::SUCCESS;

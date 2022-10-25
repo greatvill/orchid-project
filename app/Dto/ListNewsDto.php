@@ -2,22 +2,20 @@
 
 namespace App\Dto;
 
-use Illuminate\Contracts\Support\Arrayable;
-
-class ListNewsDto implements Arrayable
+class ListNewsDto
 {
     /**
      * @var NewsDto[]
      */
     public array $newsDto;
 
-    public function toArray()
-    {
-        return $this->newsDto;
-    }
-
-    public function add(NewsDto $dto)
+    public function add(NewsDto $dto): void
     {
         $this->newsDto[] = $dto;
+    }
+
+    public function getNews(): array
+    {
+        return $this->newsDto;
     }
 }
