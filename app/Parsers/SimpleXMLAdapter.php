@@ -4,7 +4,6 @@ namespace App\Parsers;
 
 use App\Dto\ListNewsDto;
 use App\Dto\NewsDto;
-use Illuminate\Log\Logger;
 use Illuminate\Support\Facades\Log;
 use SimpleXMLElement;
 

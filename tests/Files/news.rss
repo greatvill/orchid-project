@@ -1,0 +1,1568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:rbc_news="http://www.rbc.ru" version="2.0">
+  <channel>
+    <title>www.rbc.ru</title>
+    <link>https://www.rbc.ru</link>
+    <description/>
+    <ttl>30</ttl>
+    <language>ru</language>
+    <image>
+      <url>http://pics.rbc.ru/img/fp_v4/skin/img/v6-logo.png</url>
+      <link>https://www.rbc.ru</link>
+      <title>www.rbc.ru</title>
+    </image>
+    <item>
+      <title>Фонтан на улице: кадры прорыва магистрального водопровода в Баку</title>
+      <link>https://www.rbc.ru/society/26/10/2022/6358e4409a7947120f3f2084</link>
+      <pubDate>Wed, 26 Oct 2022 11:53:26 +0300</pubDate>
+      <description>В Баку в Ясамальском районе на востоке города прорвало магистральный водопровод. Часть домов остались без воды, а улицы затопило. Как выглядит ЧП — в видео РБК</description>
+      <category>Общество</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358e4409a7947120f3f2084</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/society/26/10/2022/6358e4409a7947120f3f2084</rbc_news:pdalink>
+      <rbc_news:full-text> </rbc_news:full-text>
+      <rbc_news:anons>В Баку в Ясамальском районе на востоке города прорвало магистральный водопровод. Часть домов остались без воды, а улицы затопило. Как выглядит ЧП — в видео РБК</rbc_news:anons>
+      <rbc_news:news_id>6358e4409a7947120f3f2084</rbc_news:news_id>
+      <rbc_news:tag>Баку</rbc_news:tag>
+      <rbc_news:tag>водопровод</rbc_news:tag>
+      <rbc_news:tag>прорыв</rbc_news:tag>
+      <rbc_news:tag>вода</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>society</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666774406</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 11:58:44 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://edge-upvideo.rbc.ru/archive/2022/10/26/769725.6___mp4/720p.mp4" type="video/mp4" length=""/>
+      <rbc_news:video>
+        <rbc_news:url>https://edge-upvideo.rbc.ru/archive/2022/10/26/769725.6___mp4/720p.mp4</rbc_news:url>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+      </rbc_news:video>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/4/64/756667697105644.png" type="image/png" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/png</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/4/64/756667697105644.png</rbc_news:url>
+      </rbc_news:image>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>11:53:26</rbc_news:time>
+    </item>
+    <item>
+      <title>Актуальные данные о коронавирусе в России и мире. Инфографики</title>
+      <link>https://www.rbc.ru/society/26/10/2022/62d128a79a794761fdf4e6fd</link>
+      <pubDate>Wed, 26 Oct 2022 11:51:10 +0300</pubDate>
+      <description>В России за сутки выявлено 7518 новых случаев COVID-19. Госпитализирован 1451 человек, умерли 80 зараженных. Подробные данные о коронавирусе — в инфографиках РБК</description>
+      <category>Общество</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::62d128a79a794761fdf4e6fd</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/society/26/10/2022/62d128a79a794761fdf4e6fd</rbc_news:pdalink>
+      <rbc_news:full-text>          </rbc_news:full-text>
+      <rbc_news:anons>В России за сутки выявлено 7518 новых случаев COVID-19. Госпитализирован 1451 человек, умерли 80 зараженных. Подробные данные о коронавирусе — в инфографиках РБК</rbc_news:anons>
+      <rbc_news:news_id>62d128a79a794761fdf4e6fd</rbc_news:news_id>
+      <rbc_news:tag>COVID-19</rbc_news:tag>
+      <rbc_news:tag>коронавирус</rbc_news:tag>
+      <rbc_news:tag>ограничения</rbc_news:tag>
+      <rbc_news:tag>пандемия</rbc_news:tag>
+      <rbc_news:tag>заболевание</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>society</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666774270</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 11:51:18 +0300</rbc_news:newsModifDate>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/society/12/07/2022/62cd8e3c9a794738e30ac092">
+          <rbc_news:title><![CDATA[Власти Петербурга рекомендовали носить маски и вакцинироваться от COVID]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/society/15/07/2022/62d122fa9a79475f4ff9e01f">
+          <rbc_news:title><![CDATA[Правительство отменило ковидные ограничения на границах России]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/society/13/07/2022/62ceb4499a7947922f0c5fac">
+          <rbc_news:title><![CDATA[Число новых случаев COVID-19 в Москве за сутки выросло более чем на 70%]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>11:51:10</rbc_news:time>
+    </item>
+    <item>
+      <title>«Коммерсантъ» узнал об уходе из России российского бренда телефонов</title>
+      <link>https://www.rbc.ru/technology_and_media/26/10/2022/6358e7fd9a79471234749681</link>
+      <pubDate>Wed, 26 Oct 2022 11:47:50 +0300</pubDate>
+      <description>Владелец бренда Inoi Сергей Фомин зарегистрировал компанию в Эстонии, с сайта компании пропало упоминание о России и Белоруссии, вместо них фигурирует СНГ. Под маркой Inoi в 2017 году был выпущен первый смартфон на российской ОС</description>
+      <category>Технологии и медиа</category>
+      <author>Юлия Выродова</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358e7fd9a79471234749681</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/technology_and_media/26/10/2022/6358e7fd9a79471234749681</rbc_news:pdalink>
+      <rbc_news:full-text>Российский бренд смартфонов Inoi ушел из страны, пишет «Коммерсантъ» со ссылкой на источники. По словам источника газеты, это произошло около месяца назад. На сайте Inoi больше не указаны России и Белоруссия, вместо них используется флаг СНГ, отмечает издание. Представитель Inoi заявил газете, что компания «не дает комментарии в РФ, поскольку она эстонская»  ООО «Иной» принадлежит бывшему совладельцу IT-дистрибьютора VVP Group (выступает официальным поставщиком бренда) Сергею Фомину, в начале октября он купил 100% магазина техники «Байон», торговая марка которого зарегистрирована в Эстонии. VVP Group работает в России с 1993 года, его основным юрлицом является «Центр Дистрибьюции», которая сейчас принадлежит Ирине Сибирцевой. Фомин был его основным владельцем в 2007-2012 годах. Inoi в России по-прежнему продают в магазинах «Эльдорадо», «Ситилинк», «Билайн», отмечает газета. Под брендом Inoi был создан первый смартфон на российской операционной системе Sailfish Mobile (позже — «Аврора») в 2017 году. В том же году телефон Inoi R7 подарили Дмитрию Медведеву, когда тот был премьер-министром, на выставке «Импортозамещение». Как отмечает «Коммерсантъ», позднее бренд переключился на бюджетные смартфоны на Android китайской сборки. Также выпускает планшеты и беспроводные наушники. Аналитический центр GS Group в мае подсчитал, что поставки кнопочных телефонов в Россию увеличились на 43% по сравнению с тем же периодом прошлого года Основной объем импорта кнопочных телефонов обеспечили три российских бренда: Inoi, F+ и BQ — на них совокупно пришлось 1,9 млн устройств.</rbc_news:full-text>
+      <rbc_news:anons>Владелец бренда Inoi Сергей Фомин зарегистрировал компанию в Эстонии, с сайта компании пропало упоминание о России и Белоруссии, вместо них фигурирует СНГ. Под маркой Inoi в 2017 году был выпущен первый смартфон на российской ОС</rbc_news:anons>
+      <rbc_news:news_id>6358e7fd9a79471234749681</rbc_news:news_id>
+      <rbc_news:tag>смартфон</rbc_news:tag>
+      <rbc_news:tag>телефоны</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>technology_and_media</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666774070</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 11:47:52 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/2/09/756667715055092.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/2/09/756667715055092.jpg</rbc_news:url>
+        <rbc_news:source>inoi.com</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/rbcfreenews/59b80c779a79479e6192d405">
+          <rbc_news:title><![CDATA[Медведеву подарили российский смартфон]]></rbc_news:title>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/60cc05b69a7947aa4a599712">
+          <rbc_news:title><![CDATA[Минобороны создаст смартфоны для военных]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>11:47:50</rbc_news:time>
+    </item>
+    <item>
+      <title>Свердловский военкомат назвал потери среди мобилизованных гостайной</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358db6d9a79470e6725ec99</link>
+      <pubDate>Wed, 26 Oct 2022 11:41:37 +0300</pubDate>
+      <description>В военном комиссариате региона отказались комментировать сообщения СМИ о погибших среди мобилизованных, объяснив, что не могут этого сделать, так как подобные сведения являются гостайной</description>
+      <category>Политика</category>
+      <author>Михаил Добрунов, Анастасия Серова</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358db6d9a79470e6725ec99</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358db6d9a79470e6725ec99</rbc_news:pdalink>
+      <rbc_news:full-text>Сведения, раскрывающие потери личного состава в период проведения специальных операций, являются гостайной, сообщили РБК в военном комиссариате Свердловской области в ответ на запрос о сообщениях «Комсомольской правды» и уральского портала Е1 с данными о погибших в ходе специальной военной операции на Украине среди мобилизованных.  «В соответствии с поступившими указаниями мы не комментируем данную информацию, так как сведения, раскрывающие потери личного состава в период специальных операций, относятся к государственной тайне», — заявили РБК в военкомате в ответ на просьбу прокомментировать сообщения СМИ о гибели пяти мобилизованных. E1 и «Комсомольская правда — Екатеринбург» писали, что данные о гибели пятерых военных им подтвердили в военкомате области, при этом все пятеро погибших были мобилизованными. РБК направил запрос в Минобороны.  Частичная мобилизация в России проводится с 21 сентября. В середине октября президент Владимир Путин допустил, что частичная мобилизация завершится в течение двух недель, к концу месяца, поскольку от Минобороны не поступило просьб о дополнительном призыве сверх объявленных 300 тыс. человек. «Какой-то более точной даты [окончания призыва] нет», — отметил его пресс-секретарь Дмитрий Песков.</rbc_news:full-text>
+      <rbc_news:anons>В военном комиссариате региона отказались комментировать сообщения СМИ о погибших среди мобилизованных, объяснив, что не могут этого сделать, так как подобные сведения являются гостайной</rbc_news:anons>
+      <rbc_news:news_id>6358db6d9a79470e6725ec99</rbc_news:news_id>
+      <rbc_news:tag>мобилизация</rbc_news:tag>
+      <rbc_news:tag>Свердловская область</rbc_news:tag>
+      <rbc_news:tag>погибшие</rbc_news:tag>
+      <rbc_news:tag>Военная операция на Украине</rbc_news:tag>
+      <rbc_news:tag>Минобороны</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666773697</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 11:56:08 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/1/00/756667703122001.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/1/00/756667703122001.jpg</rbc_news:url>
+        <rbc_news:source>Донат Сорокин / ТАСС</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/economics/24/10/2022/63527ce09a7947deae987f58">
+          <rbc_news:title><![CDATA[В России после частичной мобилизации вырос спрос на временных работников]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/6356a80b9a79476b2efdbd67">
+          <rbc_news:title><![CDATA[В Красноярском крае решили вернуть мобилизованного отца троих детей]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/business/25/10/2022/63570d209a79478911fb6e8b">
+          <rbc_news:title><![CDATA[Минэк проработает отмену проверок для компаний мобилизованных бизнесменов]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>11:41:37</rbc_news:time>
+    </item>
+    <item>
+      <title>Стремоусов заявил, что власти не собираются «сдавать» Херсонскую область</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358eaf99a7947151fa61f62</link>
+      <pubDate>Wed, 26 Oct 2022 11:30:05 +0300</pubDate>
+      <description>Херсонскую область никто сдавать не будет, российские войска оттуда не уйдут.</description>
+      <category>Политика</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358eaf99a7947151fa61f62</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358eaf99a7947151fa61f62</rbc_news:pdalink>
+      <rbc_news:full-text>Херсонскую область никто сдавать не будет, российские войска оттуда не уйдут. Об этом заявил замглавы региона Кирилл Стремоусов в своем телеграм-канале. «Хочу успокоить всех, кто переживает, что Херсонскую область сдадут, что Россия отступит. Мы еще раз напоминаем, что Россия своих не бросает, что Россия сегодня — это Херсонская область, и мы действуем как одно, единое государство», — сказал он.  Херсонская область вошла в состав России в конце сентября по итогам проведенного там референдума. Минобороны и власти региона неоднократно сообщали о попытках наступления украинских военных. 19 октября президент Владимир Путин ввел в регионе военное положение. За день до этого врио губернатора Херсонской области Владимир Сальдо объявил о вывозе жителей четырех областных муниципалитетов с правого берега Днепра на левый. По его словам, украинская сторона накапливает в регионе силы для широкомасштабного наступления, а также планирует разрушить дамбу Каховской ГЭС, из-за чего есть опасность затопления территорий. Ранее Стремоусов пожаловался, что в Херсонской области есть «ждуны», которые ожидают скорого возвращения украинских войск и потому отказываются принимать рубли. Стремоусов пообещал, что за такое граждане будут привлечены к ответственности «по законам военного времени».</rbc_news:full-text>
+      <rbc_news:anons>Херсонскую область никто сдавать не будет, российские войска оттуда не уйдут.</rbc_news:anons>
+      <rbc_news:news_id>6358eaf99a7947151fa61f62</rbc_news:news_id>
+      <rbc_news:tag>Херсонская область</rbc_news:tag>
+      <rbc_news:tag>Украина</rbc_news:tag>
+      <rbc_news:tag>Кирилл Стремоусов</rbc_news:tag>
+      <rbc_news:tag>Военная операция на Украине</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666773005</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 11:43:41 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/5/67/756667731969675.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/5/67/756667731969675.jpg</rbc_news:url>
+        <rbc_news:source>Сергей Бобылев / ТАСС</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/rbcfreenews/635796879a7947a96c6d8541">
+          <rbc_news:title><![CDATA[Стремоусов заявил о попытках ВСУ «продавить» линию обороны в Херсоне]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/6357a6d29a7947af0f6c87e9">
+          <rbc_news:title><![CDATA[В Херсоне пообещали наказывать за отказ принимать оплату в рублях]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/63568b3e9a79475f3f7f3cef">
+          <rbc_news:title><![CDATA[ДНР, ЛНР, Херсонская и Запорожская области получат телефонный код +7]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>11:30:05</rbc_news:time>
+    </item>
+    <item>
+      <title>Силовики пришли с обысками в дом Собчак в Подмосковье</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358e70b9a794713376a029f</link>
+      <pubDate>Wed, 26 Oct 2022 11:18:36 +0300</pubDate>
+      <description>Обыск в доме Собчак связан с делом против ее коммерческого директора Суханова, у которого дома нашли провели обыск. Его подозревают в вымогательстве, преследование связано с делом о вымогательстве за «блоки»</description>
+      <category>Политика</category>
+      <author>Михаил Добрунов, Дмитрий Серков</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358e70b9a794713376a029f</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358e70b9a794713376a029f</rbc_news:pdalink>
+      <rbc_news:full-text>В подмосковном доме журналистки Ксении Собчак в коттеджном поселке «Горки-8» проводится обыск, пишет телеграм-канал 112. Также об обысках сообщает ТАСС со ссылкой на правоохранителей. По данным агентства, обыски связаны с делом коммерческого директора журналистки Кирилла Суханова. Обыски также прошли по месту жительства Суханова, рассказал источник РБК, близкий к МВД. «Он был задержан накануне в ресторане в центре Москвы при участии сотрудников ФСБ», — добавил собеседник 32-летнего Кирилла Суханова подозревают в вымогательстве, его уголовное дело связано с получением денег за так называемые блоки, гарантирующие неупоминание каналом той или иной персоны либо компании, сообщил источник РБК. Он также отметил, что деньги подозреваемый брал за блоки в каналах Ксении Собчак. РБК обратился за комментарием к Ксении Собчак, ее мужу Константину Богомолову, а также в столичное управления Следственного комитета и ГУ МВД по Москве.  Накануне, 25 октября, источник ТАСС в правоохранительных органах рассказал, что Суханова доставили в главное следственное управление ГУ МВД по Москве в рамках уголовного дела. Собчак сообщила, что Суханов не выходит на связь с утра. «Если сообщение в каналах — правда и он задержан, то я надеюсь, что это какая-то ошибка. У нас подтверждений этого нет», — написала журналистка.  В начале октября полиция попросила завести против Собчак дело за фейки о власти, говорил источник ТАСС. Обращение полиции было связано с уголовным делом о клевете (ч. 2 ст. 128.1 УК), заведенном после интервью режиссера-документалиста Виталия Манского каналу «Осторожно: Собчак». Режиссер во время беседы заявил, что на Московском международном кинофестивале (ММКФ), президентом которого является Никита Михалков, «воруется» не менее 85% бюджета. После выхода интервью Михалков написал заявление на режиссера и обвинил его в клевете. МВД объявило режиссера-документалиста, который живет в Риге, в розыск. Собчак была допрошена по этому делу в качестве свидетеля. Собеседник ТАСС отметил, что на вопрос о том, «кто разместил и создал ложную информацию», журналистка сообщила, что готова сама отвечать за публикацию интервью с Манским. У ресурса, на котором была опубликована беседа, нет администратора, а у материала — редактора и режиссера, пояснила Собчак. «Пока у меня статус свидетеля. Но, видимо, хотят переквалифицировать. Я исполняла свой журналистский долг и брала интервью. Что тут еще скажешь?», — рассказала Собчак РБК. Происходящее она назвала «очередным примером давления на журналистское сообщество» и попытку отомстить за мнение за мою позицию «относительно происходящего в стране».  </rbc_news:full-text>
+      <rbc_news:anons>Обыск в доме Собчак связан с делом против ее коммерческого директора Суханова, у которого дома нашли провели обыск. Его подозревают в вымогательстве, преследование связано с делом о вымогательстве за «блоки»</rbc_news:anons>
+      <rbc_news:news_id>6358e70b9a794713376a029f</rbc_news:news_id>
+      <rbc_news:tag>Ксения Собчак</rbc_news:tag>
+      <rbc_news:tag>обыски</rbc_news:tag>
+      <rbc_news:tag>Подмосковье</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666772316</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 11:46:35 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/0/08/756667720975080.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/0/08/756667720975080.jpg</rbc_news:url>
+        <rbc_news:source>Олег Яковлев / РБК</rbc_news:source>
+        <rbc_news:description>Ксения Собчак</rbc_news:description>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/society/06/09/2022/6317651c9a7947d26d05abb1">
+          <rbc_news:title><![CDATA[Собчак вызвали в полицию после интервью с Манским о Михалкове]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/62b065199a79474005f39112">
+          <rbc_news:title><![CDATA[Видео поцелуя Собчак с Ивлеевой запретили в России за ЛГБТ-пропаганду]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/society/07/10/2022/63403a8c9a7947601fd016f6">
+          <rbc_news:title><![CDATA[Везшему Собчак во время ДТП в Сочи водителю дали два года колонии]]></rbc_news:title>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>11:18:36</rbc_news:time>
+    </item>
+    <item>
+      <title>В Туве в военкомате произошел пожар</title>
+      <link>https://www.rbc.ru/society/26/10/2022/6358e0bd9a794710b7ae3671</link>
+      <pubDate>Wed, 26 Oct 2022 11:16:05 +0300</pubDate>
+      <description>В Кызыле произошел пожар в военкомате, сообщило МЧС. В конце сентября Генштаб напомнил, что за поджог военкоматов предусмотрена ответственность как за теракт</description>
+      <category>Общество</category>
+      <author>Наталья Демченко, Анастасия Серова</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358e0bd9a794710b7ae3671</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/society/26/10/2022/6358e0bd9a794710b7ae3671</rbc_news:pdalink>
+      <rbc_news:full-text>В городе Кызыле произошел пожар в военкомате на улице Рабочая. Об этом сообщают «Вечерние ведомости» со ссылкой на главное управление МЧС по Туве. «На момент прибытия первого подразделения горел оконный проем здания», — сообщили в ведомстве. МЧС направило на место пожара 12 человек и три единицы техники. По данным телеграм-канала Shot, на месте возгорания нашли осколки от бутылки и ткань, пропитанную горючим. О возгорании в ночь на 26 октября в комиссариате на улице Рабочей в Кызыле сообщил 60-летний сторож, вместе с ним здание охраняли двое полицейских. В военном комиссариате по Республике Тыва РБК сообщили, что у них нет информации о поджоге. РБК направил запросы пресс-службу регионального управления МВД и в Минобороны. Поджоги военкоматов в России происходили и раньше, однако число сообщений о таких случаях по всей стране выросло после 21 сентября. В этот день президент Владимир Путин объявил в стране частичную мобилизацию. Минобороны сообщало о планах призвать 300 тыс. человек. Так, например, 26 сентября в Калининградской области мужчина бросил в здание военкомата бутылку с зажигательной смесью — его задержали; в тот же день же военкомат подожгли в Урюпинске (Волгоградская область). Аналогичные происшествия были в Санкт-Петербурге, Новосибирске и других городах. В подмосковном Щелково, например, военкомат поджигали дважды. 30 сентября ФСБ сообщила о задержании в Новосибирской области мужчины, который по заданию «западных заказчиков» искал исполнителей для поджога военкомата. По версии ведомства, он хотел добиться отказа местных жителей от поддержки боевых действий на Украине. 12 октября в Нижнем Тагиле задержали 59-летнего мужчину, который, по информации источника РБК в правоохранительных органах, собирался взорвать местный военкомат, чтобы «дестабилизировать работу муниципальных и региональных органов власти и запугать местное население», сообщала ФСБ.  Росгвардия из-за роста числа поджогов военкоматов усилила меры по их охране, писал глава комитета Госдумы по информационной политике, информационным технологиям и связи Александр Хинштейн. По его словам, в ряде городов возле зданий военкоматов будут дежурить группы вневедомственной охраны. В конце сентября Генштаб также напомнил, что поджоги зданий военкоматов, нападение на их сотрудников и запугивание призывников и их родителей «путем фейковых сообщений в СМИ» расцениваются как теракты или публичные призывы к террористической деятельности. Представитель Генштаба Владимир Цимлянский говорил, что такие случаи не единичны, граждане совершают такие действия «под влиянием негативных эмоций» — в отношении как отдельных сотрудников военных комиссариатов, так и военных комиссариатов в целом, отмечал он. Наказание по ст. 205 УК (террористический акт) предусматривает до 15 лет лишения свободы; если действия совершены группой лиц по предварительному сговору, повлекли по неосторожности смерть человека или привели к значительному имущественному ущербу — от 15 до 20 лет. По ст. 205.2 (публичные призывы к осуществлению террористической деятельности, оправдание терроризма) грозит до семи лет тюрьмы.</rbc_news:full-text>
+      <rbc_news:anons>В Кызыле произошел пожар в военкомате, сообщило МЧС. В конце сентября Генштаб напомнил, что за поджог военкоматов предусмотрена ответственность как за теракт</rbc_news:anons>
+      <rbc_news:news_id>6358e0bd9a794710b7ae3671</rbc_news:news_id>
+      <rbc_news:tag>военкомат</rbc_news:tag>
+      <rbc_news:tag>Тыва</rbc_news:tag>
+      <rbc_news:tag>поджог</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>society</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666772165</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 11:27:43 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/1/52/756667706257521.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/1/52/756667706257521.jpg</rbc_news:url>
+        <rbc_news:source>Владислав Шатило / РБК</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/politics/15/10/2022/634a813d9a79471be7453a5b">
+          <rbc_news:title><![CDATA[Росгвардия усилила охрану военкоматов из-за нападений]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/16/10/2022/634bb14a9a7947594cdded08">
+          <rbc_news:title><![CDATA[В подмосковном Щелково во второй раз подожгли военкомат]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/11/10/2022/6344db009a794773a064516d">
+          <rbc_news:title><![CDATA[В Петербурге арестовали подозреваемого в поджоге военкомата]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>11:16:05</rbc_news:time>
+    </item>
+    <item>
+      <title>Рогозин опубликовал фотографии из прифронтовой зоны в Донбассе</title>
+      <link>https://www.rbc.ru/rbcfreenews/6358e0b89a79470e6d38f83b</link>
+      <pubDate>Wed, 26 Oct 2022 11:03:52 +0300</pubDate>
+      <description> Бывший глава «Роскосмоса» Дмитрий Рогозин вместе с депутатом Госдумы Александром Бородаем посетили прифронтовую зону.</description>
+      <category>Политика</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358e0b89a79470e6d38f83b</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/rbcfreenews/6358e0b89a79470e6d38f83b</rbc_news:pdalink>
+      <rbc_news:full-text> Бывший глава «Роскосмоса» Дмитрий Рогозин вместе с депутатом Госдумы Александром Бородаем посетили прифронтовую зону. Об этом Рогозин сообщил в своем телеграм-канале. Рогозин также опубликовал фотографии. На них он вместе с Бородаем и добровольцами одеты в военную форму. Рогозин отметил, что добровольцы на Донбассе оснащены «намного лучше» русских добровольцев в Приднестровье и Боснии. Он отметил, что у добровольческих батальонов есть беспилотники и тяжелая техника.  Рогозин сообщил о приезде в Запорожскую область 24 октября. На следующий день он опубликовал снимки «с передовой». На них он запечатлен в военной форме рядом с командирами батальонов Народной милиции ДНР с позывными «Шахтер», «Злой» и «Абхаз», а также с полковником, заместителем начальника управления милиции ДНР Эдуардом Басуриным, которого Рогозин назвал политруком. На форме Рогозина заметна нашивка «Космос», в руках у бывшего главы госкорпорации автомат.</rbc_news:full-text>
+      <rbc_news:anons> Бывший глава «Роскосмоса» Дмитрий Рогозин вместе с депутатом Госдумы Александром Бородаем посетили прифронтовую зону.</rbc_news:anons>
+      <rbc_news:news_id>6358e0b89a79470e6d38f83b</rbc_news:news_id>
+      <rbc_news:tag>Дмитрий Рогозин</rbc_news:tag>
+      <rbc_news:tag>Украина</rbc_news:tag>
+      <rbc_news:tag>Донбасс</rbc_news:tag>
+      <rbc_news:tag>Александр Бородай</rbc_news:tag>
+      <rbc_news:type>short_news</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666771432</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 11:13:35 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/4/02/756667692619024.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/4/02/756667692619024.jpg</rbc_news:url>
+        <rbc_news:source>rogozin_do / Telegram</rbc_news:source>
+        <rbc_news:description>Дмитрий Рогозин и Александр Бородай</rbc_news:description>
+      </rbc_news:image>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/7/88/756667692614887.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/7/88/756667692614887.jpg</rbc_news:url>
+        <rbc_news:source>rogozin_do / Telegram</rbc_news:source>
+        <rbc_news:description>Дмитрий Рогозин (справа)</rbc_news:description>
+      </rbc_news:image>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/1/44/756667692617441.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/1/44/756667692617441.jpg</rbc_news:url>
+        <rbc_news:source>rogozin_do / Telegram</rbc_news:source>
+        <rbc_news:description>Александр Бородай (справа)</rbc_news:description>
+      </rbc_news:image>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/8/83/756667692620838.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/8/83/756667692620838.jpg</rbc_news:url>
+        <rbc_news:source>rogozin_do / Telegram</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/rbcfreenews/6357b8199a7947b74a20fd8f">
+          <rbc_news:title><![CDATA[Кремль не стал связывать визит Рогозина в Донбасс с кадровыми решениями]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/25/10/2022/635788d09a7947a39c714749">
+          <rbc_news:title><![CDATA[Приехавший в новые регионы Рогозин взял позывной «Космос»]]></rbc_news:title>
+        </link>
+        <link url="https://www.rbc.ru/politics/24/10/2022/6356d8899a7947793ba52b43">
+          <rbc_news:title><![CDATA[Рогозин объявился на передовой в Запорожье и вспомнил мечту о Славянске]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>11:03:52</rbc_news:time>
+    </item>
+    <item>
+      <title>ВОЗ назвала представляющие наибольшую угрозу для людей грибки</title>
+      <link>https://www.rbc.ru/society/26/10/2022/6358d02b9a7947094397e417</link>
+      <pubDate>Wed, 26 Oct 2022 10:35:10 +0300</pubDate>
+      <description>Всемирная организация обратила внимание на все большую устойчивость грибков к лечению и их серьезную угрозу для общественного здоровья. К наиболее опасным патогенам организация отнесла криптококк и плесень</description>
+      <category>Общество</category>
+      <author>Юлия Выродова</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358d02b9a7947094397e417</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/society/26/10/2022/6358d02b9a7947094397e417</rbc_news:pdalink>
+      <rbc_news:full-text>Всемирная организация здравоохранения (ВОЗ) впервые составила список грибков, которые «представляют наибольшую угрозу для здоровья населения». Перечень опубликован на ее сайте. В список попали 19 видов грибков, они разделены на три категории — критический, высокий и средней приоритет. В первую категорию попали:  Cryptococcus Neoformans, возбудитель криптококкоза, в том числе его церебральной формы; Candida auris — возбудитель кандидоза, устойчив к большинству противогрибковых препаратов; Aspergillus fumigatus — плесень, которая может вызвать легочное заболевание аспергиллез, в том числе опасный для жизни инвазивный; Candida albicans, может присутствовать в организме здорового человека, но у пациентов с иммунодефицитом вызывает инфекции, в том числе инвазивный кандидоз с высокой летальностью.   ВОЗ разделила грибки на три категории, руководствуясь критериями уровня летальности патогена, числа новых случаев заражения каждый год, степени распространенности в мире, срока госпитализации при заражении, числа пациентов с долгосрочными последствиями и другими.  К категории высокого приоритета ученые отнесли Nakaseomyces glabrata (Candida glabrata), Histoplasma spp., Mucorales, Fusarium spp., Candida tropicalis и Candida parapsilosis. Как указала организация, грибковые патогены представляют серьезную угрозу для общественного здоровья, так как становятся все более распространенными и устойчивыми к лечению. «Возникая из тени устойчивости к противомикробным препаратам в пандемию, грибковые инфекции растут и становятся все более устойчивыми к лечению, что становится проблемой общественного здравоохранения во всем мире», — заявила помощник директора ВОЗ в сфере устойчивости к антимикробным препаратам Ханан Балхи. В прошлом году заражения грибковыми инфекциями фиксировали у переболевших COVID-19. Так, в Индии обнаружили случаи заражения пациентов черным (распространяется спорами Mucorales) и зеленым грибками (род Aspergillus).</rbc_news:full-text>
+      <rbc_news:anons>Всемирная организация обратила внимание на все большую устойчивость грибков к лечению и их серьезную угрозу для общественного здоровья. К наиболее опасным патогенам организация отнесла криптококк и плесень</rbc_news:anons>
+      <rbc_news:news_id>6358d02b9a7947094397e417</rbc_news:news_id>
+      <rbc_news:tag>ВОЗ</rbc_news:tag>
+      <rbc_news:tag>Здоровье</rbc_news:tag>
+      <rbc_news:tag>болезни</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>society</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666769710</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 10:56:12 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/2/36/756667664502362.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/2/36/756667664502362.jpg</rbc_news:url>
+        <rbc_news:source>aspergillus.org.uk</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/rbcfreenews/609926e99a7947d0ff5e6875">
+          <rbc_news:title><![CDATA[Вирусологи оценили риск заражения переболевших COVID-19 «черным грибком»]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/60fe18339a794704672eec69">
+          <rbc_news:title><![CDATA[В США выявили вспышку устойчивого к лечению смертельного грибка]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/60d6fdca9a7947eb8fecbc0d">
+          <rbc_news:title><![CDATA[В ВОЗ оценили вероятность распространения «черной плесени» в России]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>10:35:10</rbc_news:time>
+    </item>
+    <item>
+      <title>На Пхукете в море нашли тело пропавшей россиянки</title>
+      <link>https://www.rbc.ru/society/26/10/2022/6358dce09a79470e51fecdf2</link>
+      <pubDate>Wed, 26 Oct 2022 10:27:48 +0300</pubDate>
+      <description>Тело россиянки, пропавшей без вести 20 октября на Пхукете, нашли в море.</description>
+      <category>Общество</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358dce09a79470e51fecdf2</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/society/26/10/2022/6358dce09a79470e51fecdf2</rbc_news:pdalink>
+      <rbc_news:full-text>Тело россиянки, пропавшей без вести 20 октября на Пхукете, нашли в море. Об этом РБК сообщили в генеральном консульстве России. Погибшую звали Елена Родченко. 20 октября девушка прекратила выходить на связь. На следующий день туристическая компания обратилась в консульство за помощью. Спасательная операция началась в тот же день.  «В поисках пропавшей были задействованы полицейские, военные, водолазы в количестве более 100 человек, а также вертолетная техника, скоростные суда и др. Утром 26 октября начальник туристической полиции сообщил Генконсульству о том, что тело россиянки было найдено в море», — говорится в сообщении. В начале октября российский турист погиб при падении с параплана. Это произошло в турецком городе Фетхие в провинции (иле) Мугла. Турист разбился о скалы. Россиянин летел на параплане впервые. Он приехал в Турцию на отдых.</rbc_news:full-text>
+      <rbc_news:anons>Тело россиянки, пропавшей без вести 20 октября на Пхукете, нашли в море.</rbc_news:anons>
+      <rbc_news:news_id>6358dce09a79470e51fecdf2</rbc_news:news_id>
+      <rbc_news:tag>Таиланд</rbc_news:tag>
+      <rbc_news:tag>туризм</rbc_news:tag>
+      <rbc_news:tag>консульство</rbc_news:tag>
+      <rbc_news:tag>новости</rbc_news:tag>
+      <rbc_news:tag>Пхукет</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>society</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666769268</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 10:37:25 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/8/69/756667698240698.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/8/69/756667698240698.jpg</rbc_news:url>
+        <rbc_news:source>Sirachai Arunrugstichai / Getty Images</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/business/26/10/2022/6358178f9a7947de596b58e5">
+          <rbc_news:title><![CDATA[Власти определились с кандидатами на пост куратора туризма в Минэке]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/635784089a7947a29f4cd0e4">
+          <rbc_news:title><![CDATA[Чехия перестала пускать россиян с туристическими шенгенами]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/14/10/2022/6348edbf9a79472c919872a3">
+          <rbc_news:title><![CDATA[Ростуризм заявил о недоступности для туристов турецких карт Troy]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>10:27:48</rbc_news:time>
+    </item>
+    <item>
+      <title>Власти предложили запретить продажу нарушающих российские законы видеоигр</title>
+      <link>https://www.rbc.ru/technology_and_media/26/10/2022/6358cd119a7947093f41df09</link>
+      <pubDate>Wed, 26 Oct 2022 10:20:27 +0300</pubDate>
+      <description>В России разрабатывают закон, который позволит Роскомнадзору проверять содержание видеоигр на соответствие российским законам. Steam или Epic Games могут угрожать блокировки, если они его не будут соблюдать</description>
+      <category>Технологии и медиа</category>
+      <author>Наталья Демченко</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358cd119a7947093f41df09</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/technology_and_media/26/10/2022/6358cd119a7947093f41df09</rbc_news:pdalink>
+      <rbc_news:full-text>В России разрабатывают законопроект, который обяжет разработчиков и издателей игр маркировать контент по возрастным категориям, а также запретит в России выпуск и продажу видеоигр, которые содержат информацию, запрещенную для распространения, пишет «Коммерсантъ». Распространение игр, содержание которых нарушает российские законы, предлагают запретить. Изменения, как пишет со ссылкой на текст документа газета, нужны для «профилактики совершения общественно опасных деяний под влиянием игрового контента» и «обеспечения безопасности контента компьютерных игр для здоровья граждан». Разработку законопроекта ведут Минздрав, Минэкономики, Минцифры и Роскомнадзор. Контролировать содержание игр будут экспертные организации по критериям, которые определит Роскомнадзор. В случае принятия документ вступит в силу с 1 марта 2024 года.  В Роскомнадзоре сообщили газете, что в России пока нет отдельного регулирования видеоигр, в то время как «задача государства — обеспечить необходимый уровень безопасности общества, защиту истории, культурных и традиционных ценностей и в данной сфере». В Минздраве изданию сообщили, что ведут «межведомственную проработку этих вопросов». В Минэкономики и Минцифры отказались от комментариев. Участники рынка опасаются, что инициатива грозит блокировкой зарубежных площадок игровой дистрибуции, если они откажутся исполнять требования регуляторов. «У Роскомнадзора и прокуратуры будет право потребовать у Steam или Epic Games Store не допустить продажу российским клиентам игры, где, скажем, один из персонажей нетрадиционной ориентации», — считает владелец портала Kanobu Гаджи Махтиев. По его словам, сейчас разработчики игр используют международные правила классификации игр по возрастным категориям, например, обращаются в европейскую рейтинговую организацию PEGI, которая проводит экспертизу и присваивает игре тот или иной рейтинг.  Steam и Epic Games — онлайн-платформы, на которых можно приобрести игры и программы, разработанные игровыми компаниями со всего мира. Разработчики платят владельцам платформ комиссию за размещение своих игр, для игроков часть игр доступна без оплаты. Steam — ведущий мировой онлайн-сервис, созданный компанией Valve. Программный клиент Steam позволяет устанавливать, обновлять и сохранять игры, созданные разными разработчиками, а также вести текстовое и голосовое общение между игроками. По данным Valve, в 2021 году у платформы было 132 млн активных игроков в месяц, ежедневно сервисом пользовались 69 млн пользователей. Epic Games — магазин игр, которым владеет и управляет одноименная компания — разработчик игр. В 2021 году сервису удалось привлечь 21,1 млн активных пользователей в месяц, всего за год им воспользовались 194 млн человек.   В начале марта, уже после введения первых жестких санкций против российских банков, Valve закрыла для пользователей из России основные способы оплаты в Steam — карты Visa, Mastercard и «Мир». Теперь оплатить покупки можно только через PayPal (который также ввел ограничения для российских карт) или внутренний кошелек Steam. С аналогичными трудностями столкнулись пользователи и других сервисов дистрибуции игр и программ, в частности PS Store, Microsoft Store, Nintendo eShop, GOG и др. Игры на Epic Games доступны россиянам при оплате через QIWI — за исключением тех игр, которые разработчики сделали недоступными для российских пользователей. О прекращении продажи игр в России после начала спецоперации заявляли ряд разработчиков — польская CD Projekt («Ведьмак», Cyberpunk 2077), украинская GSC Game World («Казаки», S.T.A.L.K.E.R.), Activision Blizzard (Warcraft, Starcraft, World of Warcraft, Call of Duty и Overwatch), Niantic (Pokémon GO и Ingress) и другие.  Ранее «Коммерсантъ» писал, что АНО «Институт развития интернета» (ИРИ) одобрила гранты на проекты разработки видеоигр в рамках конкурса на создание национального контента, который должен послужить укреплению гражданской идентичности и ценностей молодежи. Средства получили в том числе игры про ЧВК и партизан войны 1812 года. В ИРИ газете подтвердили, что «продукты отвечают текущим реалиям». 20 октября Роскомнадзор заблокировал сайт агрегатора рецензий Metacritic в России на основании решения МВД. Ведомство пришло к выводу, что ресурс распространял запрещенную в России информацию «о способах, методах разработки, изготовления и использования наркотических средств». Согласно данным проекта «Роскомсвобода», сайт был заблокирован из-за страницы с рецензиями на игру-менеджер Weedcraft Inc, в которой игрокам нужно выращивать марихуану. Эта игра была выпущена в 2019 году.</rbc_news:full-text>
+      <rbc_news:anons>В России разрабатывают закон, который позволит Роскомнадзору проверять содержание видеоигр на соответствие российским законам. Steam или Epic Games могут угрожать блокировки, если они его не будут соблюдать</rbc_news:anons>
+      <rbc_news:news_id>6358cd119a7947093f41df09</rbc_news:news_id>
+      <rbc_news:tag>видеоигры</rbc_news:tag>
+      <rbc_news:tag>Бизнес</rbc_news:tag>
+      <rbc_news:tag>Роскомнадзор</rbc_news:tag>
+      <rbc_news:tag>законодательство</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>technology_and_media</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666768827</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 11:59:07 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/0/99/756667656591990.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/0/99/756667656591990.jpg</rbc_news:url>
+        <rbc_news:source>Арсений Несходимов / РБК</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/technology_and_media/28/04/2022/62692b669a79477feb3ac83e">
+          <rbc_news:title><![CDATA[В России вырос спрос на «коробочные» версии игр для PlayStation и Xbox]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/624540a29a7947ad1f5ea320">
+          <rbc_news:title><![CDATA[VK отвергла планы продать разработчика игр из-за санкций]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/6226a8709a7947e1255910df">
+          <rbc_news:title><![CDATA[Ubisoft решила приостановить продажи видеоигр в России]]></rbc_news:title>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>10:20:27</rbc_news:time>
+    </item>
+    <item>
+      <title>Ракету «Союз-2.1а» с грузовым кораблем запустили к МКС. Видео</title>
+      <link>https://www.rbc.ru/technology_and_media/26/10/2022/6358d9299a79470d42ef681f</link>
+      <pubDate>Wed, 26 Oct 2022 10:18:57 +0300</pubDate>
+      <description>К МКС с Байконура запустили ракету-носитель «Союз-2.1а». Она вывела на орбиту грузовой космический корабль «Прогресс МС-21» с грузами для МКС</description>
+      <category>Технологии и медиа</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358d9299a79470d42ef681f</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/technology_and_media/26/10/2022/6358d9299a79470d42ef681f</rbc_news:pdalink>
+      <rbc_news:full-text> </rbc_news:full-text>
+      <rbc_news:anons>К МКС с Байконура запустили ракету-носитель «Союз-2.1а». Она вывела на орбиту грузовой космический корабль «Прогресс МС-21» с грузами для МКС</rbc_news:anons>
+      <rbc_news:news_id>6358d9299a79470d42ef681f</rbc_news:news_id>
+      <rbc_news:tag>ракета</rbc_news:tag>
+      <rbc_news:tag>космос</rbc_news:tag>
+      <rbc_news:tag>МКС</rbc_news:tag>
+      <rbc_news:tag>запуск</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>technology_and_media</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666768737</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 10:32:16 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://edge-upvideo.rbc.ru/archive/2022/10/26/__mp4/720p.mp4" type="video/mp4" length=""/>
+      <rbc_news:video>
+        <rbc_news:url>https://edge-upvideo.rbc.ru/archive/2022/10/26/__mp4/720p.mp4</rbc_news:url>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+      </rbc_news:video>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/1/42/756667581621421.png" type="image/png" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/png</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/1/42/756667581621421.png</rbc_news:url>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/rbcfreenews/634b21e59a79473cb794df01">
+          <rbc_news:title><![CDATA[Ракета-носитель «Ангара» стартовала с космодрома Плесецк]]></rbc_news:title>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>10:18:57</rbc_news:time>
+    </item>
+    <item>
+      <title>Глава Минобороны Украины назвал страну полигоном для испытания вооружений</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358d3e89a7947096364d824</link>
+      <pubDate>Wed, 26 Oct 2022 10:12:00 +0300</pubDate>
+      <description>Запад может тестировать на Украине свое вооружение, системы соревнуются в эффективности, сказал министр обороны страны. В МИД России ответили, что «это уже поняли», и напомнили о предупреждениях про «грязную бомбу» Киева</description>
+      <category>Политика</category>
+      <author>Михаил Добрунов</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358d3e89a7947096364d824</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358d3e89a7947096364d824</rbc_news:pdalink>
+      <rbc_news:full-text>Поставки вооружений Украине позволяют западным странам проверить их в условиях боевых действий, ситуация похожа на соревнование в эффективности между ними, заявил министр обороны Украины Алексей Резников в интервью Politico. Он указал, что украинская армия располагает восемью различными 155-миллиметровыми артиллерийскими системами, которые применяет в бою. Резников выразил оптимизм относительно перспектив получения в будущем танков Abrams и истребителей F-16, F-15 или Gripen. Он указал, что отказ в поставках этих типов вооружений не означает, что одобрение никогда получено не будет. В качестве примера он привел ситуацию с переносным зенитным комплексом Stinger: в ноябре прошлого года США отказались передать его Украине, однако за месяц до ввода российских войск одобрили поставки комплекса из Литвы. В ближайшей перспективе ключевым вопросом должен стать выбор основного танка для ВСУ, который смогут производить на Западе, продолжил глава Минобороны Украины. Он признал, что Великобритания, Германия и Франция, обладающие необходимой для этого промышленностью, будут ожидать соответствующего политического решения от США. Он добавил, что Киев ждет от Вашингтона партию дронов-камикадзе Switchblade, и отметил, что Тегеран, который Украина и страны Запада обвиняют в поставках дронов России, пока «выигрывает» в данном противостоянии.  Слова Резникова о возможности проверки на Украине западных систем вооружения оценили в российском МИДе. «Мы это уже поняли и предупредили мир об опасности активации киевским режимом «грязной бомбы», — написала представитель ведомства Мария Захарова. Россия и Иран отрицают, что Москва получила от Тегерана беспилотники для применения на Украине. МИД Исламской Республики заверил в решимости не поставлять оружие участникам конфликта. В миссии России при ООН пригрозили «пересмотром отношений» с секретариатом организации, если будет запущено расследование по беспилотникам. Постпред при ООН Василий Небензя назвал обвинения фейками. Обеспокоенность в связи с данными об использовании Россией иранских дронов выразили США, Евросоюз и Израиль. В частности, беспилотник «Герань-2» украинские власти называют версией иранского боевого БПЛА типа Shahed. Российская сторона критикует поставки оружия западными странами на Украину, настаивая, что такая ситуация не помешает Москве достичь поставленных целей, а лишь затянет конфликт. </rbc_news:full-text>
+      <rbc_news:anons>Запад может тестировать на Украине свое вооружение, системы соревнуются в эффективности, сказал министр обороны страны. В МИД России ответили, что «это уже поняли», и напомнили о предупреждениях про «грязную бомбу» Киева</rbc_news:anons>
+      <rbc_news:news_id>6358d3e89a7947096364d824</rbc_news:news_id>
+      <rbc_news:tag>Алексей Резников</rbc_news:tag>
+      <rbc_news:tag>Минобороны Украины</rbc_news:tag>
+      <rbc_news:tag>поставки оружия</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666768320</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 10:54:24 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/5/70/756667668717705.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/5/70/756667668717705.jpg</rbc_news:url>
+        <rbc_news:source>Omar Havana / Getty Images</rbc_news:source>
+        <rbc_news:description>Алексей Резников</rbc_news:description>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/rbcfreenews/6358b92d9a7947000cec9d6f">
+          <rbc_news:title><![CDATA[Глава Минобороны Украины допустил получение западных танков]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/26/10/2022/635881889a7947f6e595431a">
+          <rbc_news:title><![CDATA[США передали Украине первые два комплекса NASAMS]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/61b2fc6c9a794797c28c8c81">
+          <rbc_news:title><![CDATA[США передали Украине 30 противотанковых комплексов Javelin]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/6330a8709a79479c58bdca35">
+          <rbc_news:title><![CDATA[В США пообещали продолжить работу по поставкам советских танков Украине]]></rbc_news:title>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>10:12:00</rbc_news:time>
+    </item>
+    <item>
+      <title>Володин заявил о потере Украиной способности существовать как государство</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358c3b59a794704323cd0f5</link>
+      <pubDate>Wed, 26 Oct 2022 09:41:45 +0300</pubDate>
+      <description>Украина потеряла свою государственность из-за экономической ситуации и «оккупации» со стороны НАТО, написал спикер Госдумы Вячеслав Володин в своем телеграм-канале.</description>
+      <category>Политика</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358c3b59a794704323cd0f5</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358c3b59a794704323cd0f5</rbc_news:pdalink>
+      <rbc_news:full-text>Украина потеряла свою государственность из-за экономической ситуации и «оккупации» со стороны НАТО, написал спикер Госдумы Вячеслав Володин в своем телеграм-канале. «Украина оккупирована НАТО. Страна стала колонией США. Приказы Киеву отдаются из Вашингтона. ВСУ управляются Пентагоном», — утверждает Володин.  Кроме того, Володин заявил о неспособности Киева выполнять социальные обязательства перед гражданами, выплачивать зарплаты и пенсии. «Финансовая система страны разрушена. Более $100 млрд долгов необходимо возвращать. Проценты по кредитам с каждым днем увеличиваются», — добавил спикер Госдумы. Украина получает от Запада финансовую помощь. В частности, ей перечисляют деньги США, ЕС, Великобритания. Также страна получает деньги от Всемирного банка. В июле власти Украины сообщали, что для восстановления экономики и инфраструктуры страны необходимо от $30 млрд до $100 млрд ежегодно. В августе президент Владимир Зеленский говорил о сумме $600–800 млрд. Премьер Украины Денис Шмыгаль 23 октября сообщил, что Киев исчерпал возможности для экономии и рискует столкнуться с нехваткой средств для выплаты пенсий и зарплат, если вовремя не получит обещанный ЕС транш в $9 млрд. В июле советник президента Украины по экономике Олег Устенко оценивал дефицит государственного бюджета страны к концу 2022 года в $50 млрд, или 30–35% ВВП. По его словам, в условиях боевых действий ежемесячный дефицит бюджета составляет $5 млрд. 24 февраля президент России Владимир Путин объявил о начале специальной военной операции. По словам Путина, одна из целей операции — «демилитаризация» Украины и недопущение ее вступления в НАТО. После этого страны НАТО стали поставлять Украине современное западное вооружение. В сентябре Зеленский подал заявку на ускоренное вступление в НАТО. В середине марта президент Путин говорил, что у России нет цели оккупировать Украину. В конце сентября на территориях Украины, занятых российскими войсками, прошли референдумы о вхождении в состав России. В результате в составе страны появились четыре новых субъекта: ДНР, ЛНР, Херсонская и Запорожская область. При этом Россия не контролирует эти территории в административных границах областей. В этих регионах введено военное положение.  В середине октября на Генассамблее ООН прошло голосование по резолюции с осуждением референдумов. Резолюцию поддержали 143 страны, против выступили пять, не участвовали в голосовании 35 государств. Против резолюции проголосовали Белоруссия, Северная Корея, Никарагуа, Сирия и Россия. Китай воздержался. Согласно данным ООН на середину сентября, в результате боевых действий на Украине погибли 5827 человек гражданского населения. Из погибших 2270 мужчин, 1559 женщин, 153 девочки и 187 мальчиков, а также 35 детей и 1623 взрослых, пол которых пока неизвестен. Наибольшее число погибших в ДНР и ЛНР — 3472. Российские власти, начиная спецоперацию, говорили, что ее целью является защита населения Донбасса.</rbc_news:full-text>
+      <rbc_news:anons>Украина потеряла свою государственность из-за экономической ситуации и «оккупации» со стороны НАТО, написал спикер Госдумы Вячеслав Володин в своем телеграм-канале.</rbc_news:anons>
+      <rbc_news:news_id>6358c3b59a794704323cd0f5</rbc_news:news_id>
+      <rbc_news:tag>Вячеслав Володин</rbc_news:tag>
+      <rbc_news:tag>Украина</rbc_news:tag>
+      <rbc_news:tag>НАТО</rbc_news:tag>
+      <rbc_news:tag>экономический кризис</rbc_news:tag>
+      <rbc_news:tag>Военная операция на Украине</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666766505</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 10:46:10 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/9/86/756667618033869.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/9/86/756667618033869.jpg</rbc_news:url>
+        <rbc_news:source>Global Look Press</rbc_news:source>
+        <rbc_news:description>Вячеслав Володин</rbc_news:description>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/politics/26/10/2022/6358cc659a7947094131c6be">
+          <rbc_news:title><![CDATA[В Киеве и 11 областях Украины объявили воздушную тревогу]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/6358b92d9a7947000cec9d6f">
+          <rbc_news:title><![CDATA[Глава Минобороны Украины допустил получение западных танков]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/textonlines/26/10/2022/6216fb4d9a79474dc80e8821">
+          <rbc_news:title><![CDATA[Военная операция на Украине. Онлайн]]></rbc_news:title>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>09:41:45</rbc_news:time>
+    </item>
+    <item>
+      <title>Рогов заявил о перегруппировке ВСУ в Запорожской области</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358d1f49a79470a90c9e974</link>
+      <pubDate>Wed, 26 Oct 2022 09:32:09 +0300</pubDate>
+      <description>Вооруженные силы Украины (ВСУ) проводят перегруппировку на запорожском направлении.</description>
+      <category>Политика</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358d1f49a79470a90c9e974</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358d1f49a79470a90c9e974</rbc_news:pdalink>
+      <rbc_news:full-text>Вооруженные силы Украины (ВСУ) проводят перегруппировку на запорожском направлении. Об этом в эфире «Соловьев Live» заявил замглавы Запорожской области Владимир Рогов. По словам Рогова, значительное число украинских военных перенаправили на запорожское направление. Планируется атака в сторону населенных пунктов Васильевка и Пологи. Васильевка находится к востоку от Энергодара на левом берегу Днепра. Пологи — город в 100 км к северу от Бердянска.  «ВСУ, перебросив своих боевиков с Харьковского направления в Днепропетровск, отправили значительную часть не только на херсонское направление, но и непосредственно на запорожское направление в район Орехова и в район Гуляйполя с перспективой удара по Васильевке, Пологам непосредственно. Вот эти направления у нас наиболее горячие на сегодняшний день», — сказал Рогов. 6 октября Рогов сообщил, что ВСУ стянули на линию соприкосновения в Запорожской области больше оружия и солдат, чем за все время спецоперации. В конце сентября на подконтрольной Москве части Запорожской области (как и в Херсонской, а также в ДНР и ЛНР) прошел референдум о присоединении к России, на котором, по официальным данным, 91,11% проголосовавших высказались за. Вхождение в состав России поддержали и жители остальных трех территорий, Владимир Путин 5 октября подписал соответствующие законы.</rbc_news:full-text>
+      <rbc_news:anons>Вооруженные силы Украины (ВСУ) проводят перегруппировку на запорожском направлении.</rbc_news:anons>
+      <rbc_news:news_id>6358d1f49a79470a90c9e974</rbc_news:news_id>
+      <rbc_news:tag>Украина</rbc_news:tag>
+      <rbc_news:tag>Запорожская область</rbc_news:tag>
+      <rbc_news:tag>Владимир Рогов</rbc_news:tag>
+      <rbc_news:tag>Военная операция на Украине</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666765929</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 10:19:27 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/0/27/756667659749270.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/0/27/756667659749270.jpg</rbc_news:url>
+        <rbc_news:source>Carl Court / Getty Images</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/politics/25/10/2022/6357dcc69a7947c7dfc46f46">
+          <rbc_news:title><![CDATA[В Запорожской области три населенных пункта начали получать газ из ДНР]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/24/10/2022/6356d8899a7947793ba52b43">
+          <rbc_news:title><![CDATA[Рогозин объявился на передовой в Запорожье и вспомнил мечту о Славянске]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/26/10/2022/6358cc659a7947094131c6be">
+          <rbc_news:title><![CDATA[В Киеве и 11 областях Украины объявили воздушную тревогу]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>09:32:09</rbc_news:time>
+    </item>
+    <item>
+      <title>Ефимов сообщил о выделении городом 21 участка инвесторам под производства</title>
+      <link>https://www.rbc.ru/rbcfreenews/635816f19a7947de596b58e2</link>
+      <pubDate>Wed, 26 Oct 2022 09:15:00 +0300</pubDate>
+      <description>Москва передаст инвесторам в аренду свыше 147 га земли в рамках реализации масштабных инвестиционных проектов (МАП).</description>
+      <category>Общество</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::635816f19a7947de596b58e2</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/rbcfreenews/635816f19a7947de596b58e2</rbc_news:pdalink>
+      <rbc_news:full-text>Москва передаст инвесторам в аренду свыше 147 га земли в рамках реализации масштабных инвестиционных проектов (МАП). Заместитель мэра по вопросам экономической политики и имущественно-земельных отношений Владимир Ефимов сообщил, что в январе—октябре 2022 года Градостроительно-земельная комиссия выделила под эти цели 21 земельный участок. Общий объем инвестиций, как сообщил вице-мэр, составит около 70 млрд руб., а в городе появится свыше 15 тыс. новых рабочих мест. Выделение участков по программе МАП Москва рассматривает в качестве эффективной меры поддержки бизнеса со стороны города. Она упрощает застройщикам создание и развитие компаний, логистику, а столице дает новые рабочие места и приток инвестиций. Министр правительства Москвы, руководитель департамента городского имущества Максим Гаман оценил потенциальную емкость этих проектов более чем в 1 млн кв. м недвижимости. Около половины арендованной земли предназначено под производство строительных материалов. Помимо стройиндустрии, проекты предусматривают предприятия легкой, пищевой, автомобильной и фармацевтической отраслей. При поддержке города в Москве создадут производства по изготовлению электроники, мебели, одежды, упаковки, стройматериалов, мясной продукции и специй, изделий из пенополиуретана, логистический центр, технопарк и индустриальный кластер. Пищевая промышленность представлена в списке тремя проектами:  Троицкий округ Москвы примет у себя завод по производству технологического оборудования. В ТиНАО появится пищевой кластер по выпуску молочной, хлебной, мясной и другой продукции. На севере Москвы в районе Западное Дегунино построят высокотехнологичный комплекс по выпуску готовых блюд.  Глава департамента инвестиционной и промышленной политики города Владислав Овчинский рассказал, что инвестиции составят 3 млрд руб., созданные предприятия трудоустроят около 4 тыс. человек. Общий объем земли в аренду превысит 30 га. Строительная отрасль будет представлена сразу на нескольких территориях. Максим Гаман сообщил, что в зеленоградском районе Крюково появится комплекс по выпуску строительной продукции с офисными, торговыми и демонстрационными площадями 360 тыс. кв. м — под этот проект в аренду выделено свыше 35 га. Завод по производству архитектурного бетона площадью 15 тыс. кв. м разместится в Капотне — это территория в 1,97 га. А возле станции Бекасово-Сортировочная (ТиНАО) появится промышленный комплекс по производству фиброцементных плит, газобетонных блоков и стекла площадью 116 тыс. кв. м. Для него в аренду передадут сразу четыре участка размером свыше 28 га.</rbc_news:full-text>
+      <rbc_news:anons>Москва передаст инвесторам в аренду свыше 147 га земли в рамках реализации масштабных инвестиционных проектов (МАП).</rbc_news:anons>
+      <rbc_news:news_id>635816f19a7947de596b58e2</rbc_news:news_id>
+      <rbc_news:tag>строительный бизнес</rbc_news:tag>
+      <rbc_news:tag>инвестиционные проекты</rbc_news:tag>
+      <rbc_news:tag>Москва</rbc_news:tag>
+      <rbc_news:tag>Владимир Ефимов</rbc_news:tag>
+      <rbc_news:type>short_news</rbc_news:type>
+      <rbc_news:newsline>society</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666764900</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 08:19:25 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/4/31/756667210203314.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/4/31/756667210203314.jpg</rbc_news:url>
+        <rbc_news:source>пресс-служба КЭПиИЗО</rbc_news:source>
+        <rbc_news:description>Владимир Ефимов</rbc_news:description>
+      </rbc_news:image>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>09:15:00</rbc_news:time>
+    </item>
+    <item>
+      <title>В Киеве и 11 областях Украины объявили воздушную тревогу</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358cc659a7947094131c6be</link>
+      <pubDate>Wed, 26 Oct 2022 09:12:29 +0300</pubDate>
+      <description>Более половины украинских регионов объявили воздушную тревогу — сирену не включили только в восьми на западе страны. В ряде областей с утра продолжились стабилизационные отключения света, Минэнерго сообщало о миллиардном ущербе</description>
+      <category>Политика</category>
+      <author>Михаил Добрунов</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358cc659a7947094131c6be</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358cc659a7947094131c6be</rbc_news:pdalink>
+      <rbc_news:full-text>В центральных, южных и восточных областях Украины объявили воздушную тревогу, ее не объявили только в западных регионах страны, следует из данных ресурсов, отслеживающих ситуацию. Сирены включили в Киеве и области, Одесской, Харьковской, Днепропетровской, Черниговской, Житомирской, Винницкой, Черкасской, Кировоградской, Николаевской, Полтавской областях, а также в контролируемых властями страны частях Херсонской и Запорожской областей. Два последних региона вошли в состав России после референдумов в конце сентября. Портал «Страна.ua» сообщил об отключениях электроэнергии в разных регионах. В частности, в Николаевской области свет пропал у десяти групп потребителей с 8:00 (время совпадает с московским). О стабилизационных отключениях света сообщили также в Днепропетровской и Одесской областях, пообещав восстановить подачу энергии в течение четырех часов. Период отключения может быть продлен в случае аварийной ситуации.  В последние две недели в Киеве и других регионах Украины неоднократно объявляли воздушную тревогу. Вслед за сообщениями о ней местные власти уведомляли о ракетных ударах по объектам энергетической инфраструктуры, после чего во всех регионах страны наблюдались перебои со связью, интернетом, электричеством и водоснабжением. Удары начались спустя два дня после взрыва грузовика на Крымском мосту, в организации которого российские власти обвиняют Украину. Минобороны России сообщало, что целями ударов были военные объекты, а также объекты связи и энергетики. Из-за ударов с 10 по 21 октября оказалось повреждено от 30 до 40% украинской энергетической инфраструктуры, говорил министр энергетики страны Герман Галущенко. По его оценке, ущерб составил несколько миллиардов долларов, пострадало не менее половины мощностей тепловой генерации. Утром 25 октября на Украину прибыл президент Германии Франк-Вальтер Штайнмайер. Во время посещения города Корюковска Черниговской области он был вынужден провести более полутора часов в бомбоубежище из-за воздушной тревоги. «Это дало нам особенно впечатляющее представление об условиях, в которых здесь живут люди», — отметил глава ФРГ.  </rbc_news:full-text>
+      <rbc_news:anons>Более половины украинских регионов объявили воздушную тревогу — сирену не включили только в восьми на западе страны. В ряде областей с утра продолжились стабилизационные отключения света, Минэнерго сообщало о миллиардном ущербе</rbc_news:anons>
+      <rbc_news:news_id>6358cc659a7947094131c6be</rbc_news:news_id>
+      <rbc_news:tag>Украина</rbc_news:tag>
+      <rbc_news:tag>Воздушная тревога</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666764749</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 10:13:19 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/4/62/756667653491624.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/4/62/756667653491624.jpg</rbc_news:url>
+        <rbc_news:source>Zohra Bensemra / Reuters</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/politics/22/10/2022/635322509a79471924ceb362">
+          <rbc_news:title><![CDATA[Воздушную тревогу объявили в Киеве и центральной части Украины]]></rbc_news:title>
+        </link>
+        <link url="https://www.rbc.ru/politics/22/10/2022/6353cea79a79473b364c653d">
+          <rbc_news:title><![CDATA[Минобороны России сообщило об ударах по цехам с частями для «Нептунов»]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/21/10/2022/6352287e9a7947bcced8cfbd">
+          <rbc_news:title><![CDATA[Число погибших после удара ВСУ по переправе в Херсоне выросло до четырех]]></rbc_news:title>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>09:12:29</rbc_news:time>
+    </item>
+    <item>
+      <title>Politico узнала о противоречии Парижа и Берлина по конференции лидеров</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358c44d9a7947054ead8057</link>
+      <pubDate>Wed, 26 Oct 2022 09:02:14 +0300</pubDate>
+      <description>Как отмечает Politico, отказ от пресс-конференции с прибывшим с визитом лидером обычно демонстрирует укор. СМИ ранее сообщали о разногласиях Парижа и Берлина по энергетике и о недовольстве Франции в связи с поездкой Шольца в Китай</description>
+      <category>Политика</category>
+      <author>Юлия Выродова</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358c44d9a7947054ead8057</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358c44d9a7947054ead8057</rbc_news:pdalink>
+      <rbc_news:full-text>Париж и Берлин предоставили противоречивую информацию, состоится ли совместная пресс-конференция французского президента Эмманюэля Макрона и канцлера Германии Олафа Шольца, пишет Politico. Берлин анонсировал, что после переговоров тет-а-тет Макрона и Шольца в Париже состоится их совместная пресс-конференция, это нормальная практика после двусторонних встреч. Анонс конференции есть на сайте канцлера. Однако Елисейский дворец, по информации издания, вечером накануне заявил, что такая пресс-конференция не планируется. В графике Макрона на сайте дворца говорится только о переговорах с Шольцем, о совместном выступлении перед журналистами не упоминается.  Шольц прибыл с прессой в Париж, откуда отправится с визитом в Афины. Politico отметила, что отказ от пресс-конференции с прибывшим с визитом политиком демонстрирует укор. Издание указало, что ранее так поступал и сам Шольц — с президентом Венгрии Виктором Орбаном, встреча с которым прошла 10 октября. После этого совместной пресс-конференции не было. На прошлой неделе The Telegraph сообщила, что в Париже «пришли в ярость» из-за запуска Шольцем схемы внутренней энергетической помощи на €200 млрд без предварительных консультаций с французской стороной. После этого Франция и Германия до января отложили правительственные консультации, запланированные на текущую неделю. Кроме того, в Париже вызвало недовольство решение Шольца отправиться в Китай и встретиться с Си Цзиньпиом, поскольку в Елисейском дворце считают, что канцлер должен был поехать в Пекин вместе с Макроном.</rbc_news:full-text>
+      <rbc_news:anons>Как отмечает Politico, отказ от пресс-конференции с прибывшим с визитом лидером обычно демонстрирует укор. СМИ ранее сообщали о разногласиях Парижа и Берлина по энергетике и о недовольстве Франции в связи с поездкой Шольца в Китай</rbc_news:anons>
+      <rbc_news:news_id>6358c44d9a7947054ead8057</rbc_news:news_id>
+      <rbc_news:tag>Франция</rbc_news:tag>
+      <rbc_news:tag>Германия</rbc_news:tag>
+      <rbc_news:tag>пресс-конференция</rbc_news:tag>
+      <rbc_news:tag>Эмманюэль Макрон</rbc_news:tag>
+      <rbc_news:tag>Олаф Шольц</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666764134</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 09:30:48 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/7/99/756667625839997.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/7/99/756667625839997.jpg</rbc_news:url>
+        <rbc_news:source>Omer Messinger / Getty Images</rbc_news:source>
+        <rbc_news:description>Эмманюэль Макрон (слева) и Олаф Шольц</rbc_news:description>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/rbcfreenews/6348c0e19a794720374ed82d">
+          <rbc_news:title><![CDATA[Уоллес раскритиковал Макрона из-за слов о ядерной доктрине Франции]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/15/10/2022/634ad1989a79472eac249503">
+          <rbc_news:title><![CDATA[Шольц выступил за отмену принципа единогласия при принятии решений ЕС]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/22/10/2022/635430c39a79474fac1243d4">
+          <rbc_news:title><![CDATA[Шольц заявил, что до 30% немцев не поддерживают санкции против России]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>09:02:14</rbc_news:time>
+    </item>
+    <item>
+      <title>Росавиация вновь продлила запрет на полеты в южные аэропорты России</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358c3549a7947049116f8d7</link>
+      <pubDate>Wed, 26 Oct 2022 09:00:10 +0300</pubDate>
+      <description>Аэропорты юга России будут закрыты как минимум до 3 ноября, сообщила Росавиация. Ограничения ввели еще в конце февраля и с тех пор регулярно продлевают</description>
+      <category>Политика</category>
+      <author>Артём Кореняко</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358c3549a7947049116f8d7</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358c3549a7947049116f8d7</rbc_news:pdalink>
+      <rbc_news:full-text>Режим ограничений на выполнение полетов в 11 аэропортов юга и центральной части России продлен до 3 ноября, сообщил РБК представитель Росавиации. По-прежнему временно ограничены полеты в аэропорты Анапы, Белгорода, Брянска, Геленджика, Воронежа, Курска, Краснодара, Липецка, Симферополя, Ростова-на-Дону и Элисты. Все эти аэропорты находятся недалеко от границы с Украиной. Они приостановили работу еще в день начала спецоперации, 24 февраля. В Росавиации поясняли, что приняли такое решение из-за угрозы для гражданских самолетов.  С тех пор ограничение еженедельно продлевали, последний раз — 20 октября. Из-за ограничений на полеты в южные аэропорты РЖД направили 144 дополнительных поезда в сторону Адлера, Анапы, Новороссийска, Сочи и других южных городов России и увеличили количество мест в составах. Ограничения на полеты также позволили расширить программу субсидированных перевозок: Росавиация сообщала, что смогла включить в нее 49 новых направлений в обход Москвы. Дополнительные соглашения о предоставлении субсидий заключены с 15 авиаперевозчиками, среди которых ПАО «Аэрофлот» и компания UTair. </rbc_news:full-text>
+      <rbc_news:anons>Аэропорты юга России будут закрыты как минимум до 3 ноября, сообщила Росавиация. Ограничения ввели еще в конце февраля и с тех пор регулярно продлевают</rbc_news:anons>
+      <rbc_news:news_id>6358c3549a7947049116f8d7</rbc_news:news_id>
+      <rbc_news:tag>Росавиация</rbc_news:tag>
+      <rbc_news:tag>юг России</rbc_news:tag>
+      <rbc_news:tag>Аэропорты</rbc_news:tag>
+      <rbc_news:tag>Запрет полетов</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666764010</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 09:20:03 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/5/21/756667619764215.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/5/21/756667619764215.jpg</rbc_news:url>
+        <rbc_news:source>Lex Rayton / Global Look Press</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/rbcfreenews/635657de9a794749d4a63242">
+          <rbc_news:title><![CDATA[«Победа» возобновит полеты в Турцию]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/society/20/10/2022/6350d85c9a7947503f575bf9">
+          <rbc_news:title><![CDATA[Росавиация еще на неделю продлила запрет полетов в аэропорты юга России]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/society/18/10/2022/634e57bf9a79470ce63a2b47">
+          <rbc_news:title><![CDATA[СК возбудил дело о нарушении правил полетов после крушения Су-34 в Ейске]]></rbc_news:title>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>09:00:10</rbc_news:time>
+    </item>
+    <item>
+      <title>Зарубежные авиакомпании более чем вдвое увеличили перевозки в Россию</title>
+      <link>https://www.rbc.ru/business/26/10/2022/6358c35b9a7947031ffd7917</link>
+      <pubDate>Wed, 26 Oct 2022 08:59:47 +0300</pubDate>
+      <description>Иностранные компании перевезли в этом году вдвое больше пассажиров на рейсах в Россию и обратно, чем годом ранее. Более половины из них обслужили московские аэропорты</description>
+      <category>Бизнес</category>
+      <author>Михаил Добрунов</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358c35b9a7947031ffd7917</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/business/26/10/2022/6358c35b9a7947031ffd7917</rbc_news:pdalink>
+      <rbc_news:full-text>Зарубежные авиакомпании более чем вдвое увеличили пассажиропоток в Россию и обратно — за первые девять месяцев они перевезли более 8,7 млн человек, в прошлом году за этот период было перевезено только 4 млн пассажиров, говорится в ежемесячном докладе Росиавиации, пишут «Известия» со ссылкой на документ. При этом международный пассажиропоток российских авиакомпаний, напротив, сократился на 16%, до 13 млн человек, в январе—сентябре. Всего пассажиров на международных рейсах в Россию и обратно стало больше на 11% год к году, причем 13,3 млн человек (61%) из них обслужили столичные аэропорты Домодедово, Внуково и Шереметьево. Во всех трех международный пассажиропоток вырос почти на 14% в годовом выражении. Только в Домодедово обслужили на международных рейсах 4,4 млн человек, что на 36% больше прошлогодних показателей.  В Россию сейчас летают 50 зарубежных авиаперевозчиков, в том числе 39 выполняют пассажирские рейсы, еще шесть — грузопассажирские, рассказал изданию собеседник в Минтрансе. Эти иностранные компании выполняют прямые рейсы из России в 26 стран — Турцию, Армению, Казахстан, Израиль, Египет, Бахрейн, Катар, Узбекистан, Киргизию, Таджикистан, Китай, Азербайджан, Эфиопию, Иорданию, Белоруссию, ОАЭ, Сербию, Сирию, Афганистан, Монголию, Иран, Ирак, Алжир, Туркмению и Венесуэлу. Годом ранее в Россию летало на 27,5% иностранных перевозчиков больше, 69 компаний из 49 стран, рассказали изданию в сервисе аналитики для авиакомпаний и аэропортов Aviastats (принадлежит Aviasales).  После ввода российских войск на Украину в конце февраля страны мира стали закрывать воздушное пространство для российских самолетов; такое решение приняли США, Канада, государства Евросоюза, Великобритания, Молдавия и др. Москва, в свою очередь, приняла ответные меры в отношении 36 стран. С октября молдавская Air Moldova решила восстановить авиасообщение с Россией, указав, что тому причиной стали «многочисленные обращения» граждан республики, которые желают вернуться домой или воссоединиться с семьями. Многие иностранные авиаперевозчики при этом отказываются возобновлять полеты в Россию: в частности, немецкая Lufthansa продлила свой отказ до конца марта 2023 года «в связи с текущей нормативно-правовой ситуацией».  </rbc_news:full-text>
+      <rbc_news:anons>Иностранные компании перевезли в этом году вдвое больше пассажиров на рейсах в Россию и обратно, чем годом ранее. Более половины из них обслужили московские аэропорты</rbc_news:anons>
+      <rbc_news:news_id>6358c35b9a7947031ffd7917</rbc_news:news_id>
+      <rbc_news:tag>туризм</rbc_news:tag>
+      <rbc_news:tag>авикомпании</rbc_news:tag>
+      <rbc_news:tag>авиарейсы</rbc_news:tag>
+      <rbc_news:tag>авиасообщение</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>business</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666763987</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 10:35:14 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/2/42/756667621772422.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/2/42/756667621772422.jpg</rbc_news:url>
+        <rbc_news:source>Simon Belcher / Global Look Press</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/society/20/10/2022/6351ace89a7947a15560abe7">
+          <rbc_news:title><![CDATA[«Аэрофлот» сообщил о сбое системы регистрации на рейсы в Шереметьево]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/business/18/10/2022/634e03b09a7947f4bcebfbb2">
+          <rbc_news:title><![CDATA[США лишили «Уральские авиалинии» экспортных привилегий]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>08:59:47</rbc_news:time>
+    </item>
+    <item>
+      <title>Ракова сообщила о 3 тыс. прошедших повышение квалификации врачей</title>
+      <link>https://www.rbc.ru/rbcfreenews/634ff3af9a7947112bed4538</link>
+      <pubDate>Wed, 26 Oct 2022 08:30:10 +0300</pubDate>
+      <description>В Кадровом центре департамента здравоохранения Москвы (ДЗМ) продолжается реализация масштабной образовательной программы для врачей общей практики.</description>
+      <category>Общество</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::634ff3af9a7947112bed4538</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/rbcfreenews/634ff3af9a7947112bed4538</rbc_news:pdalink>
+      <rbc_news:full-text>В Кадровом центре департамента здравоохранения Москвы (ДЗМ) продолжается реализация масштабной образовательной программы для врачей общей практики. Всего в ней принимают участие около 3 тыс. специалистов городских поликлиник. Все они прошли уже больше половины образовательной программы, рассказала вице-мэр Москвы по вопросам социального развития Анастасия Ракова. По словам заммэра, комплексная программа обучения на базе Кадрового центра столичного депздрава необходима для того, чтобы специалисты постоянно повышали уровень своих знаний по основным видам заболеваний, с которыми к ним обращаются пациенты. «Образовательная программа по каждому модулю разрабатывалась при участии главных внештатных специалистов ДЗМ и ведущих специалистов столичных больниц и поликлиник. При обучении врачей общей практики применяются эффективные образовательные алгоритмы и технологии, соответствующие стандартам столичного здравоохранения», — уточнила Ракова. Программа обучения рассчитана на полтора года и включает в себя 13 образовательных модулей — урологию, эндокринологию, ревматологию, кардиологию, гастроэнтерологию и ряд других. Каждый модуль состоит из 18 учебных часов. Все успешно пройденные модули засчитываются в системе непрерывного медицинского образования.  По словам главного внештатного специалиста по общей врачебной практике департамента здравоохранения Виктора Фомина, участвующие в образовательной программе специалисты знакомятся с передовыми методами диагностики и лечения наиболее распространенных заболеваний: «Отработка практических навыков происходит на современном симуляционном и медицинском оборудовании Кадрового центра депздрава. В конечном итоге главным результатом действия программы становится повышение качества оказания медицинской помощи в московских поликлиниках». Как сообщила Ракова, в настоящее время врачи завершают обучение по таким направлениям, как неврология, инфекционные болезни, эндокринология и урология. По оториноларингологии, офтальмологии и дерматовенерологии обучение уже завершено. В общей сложности медики охватили уже семь направлений.  Кадровый центр департамента здравоохранения Москвы осуществляет непрерывное профессиональное дополнительное образование и методическое сопровождение, проводит оценочные мероприятия, а также является аккредитационной площадкой. В состав центра входит 31 симуляционная станция, каждая из которых оснащена специализированным оборудованием для демонстрации практических навыков работы врача. Парк высокотехнологичного оборудования, на котором проводится оценка и обучение, включает в себя более 1,1 тыс. симуляторов, тренажеров, медицинскую технику и сопутствующее оборудование. Возможности Кадрового центра позволяют проводить профессиональную оценку по 89 врачебным специальностям. </rbc_news:full-text>
+      <rbc_news:anons>В Кадровом центре департамента здравоохранения Москвы (ДЗМ) продолжается реализация масштабной образовательной программы для врачей общей практики.</rbc_news:anons>
+      <rbc_news:news_id>634ff3af9a7947112bed4538</rbc_news:news_id>
+      <rbc_news:tag>Департамент здравоохранения</rbc_news:tag>
+      <rbc_news:tag>Москва</rbc_news:tag>
+      <rbc_news:tag>Анастасия Ракова</rbc_news:tag>
+      <rbc_news:tag>подготовка кадров</rbc_news:tag>
+      <rbc_news:tag>врач</rbc_news:tag>
+      <rbc_news:type>short_news</rbc_news:type>
+      <rbc_news:newsline>society</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666762210</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Sat, 22 Oct 2022 16:46:49 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/5/46/756661841548465.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/5/46/756661841548465.jpg</rbc_news:url>
+        <rbc_news:source>Михаил Терещенко / ТАСС</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>08:30:10</rbc_news:time>
+    </item>
+    <item>
+      <title>Глава Минобороны Украины допустил получение западных танков</title>
+      <link>https://www.rbc.ru/rbcfreenews/6358b92d9a7947000cec9d6f</link>
+      <pubDate>Wed, 26 Oct 2022 08:28:18 +0300</pubDate>
+      <description>Министр обороны Украины Алексей Резников считает, что Киев получит танки и истребители западного производства так же, как было получено другое оружие, которое изначально США запрещали поставлять.</description>
+      <category>Политика</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358b92d9a7947000cec9d6f</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/rbcfreenews/6358b92d9a7947000cec9d6f</rbc_news:pdalink>
+      <rbc_news:full-text>Министр обороны Украины Алексей Резников считает, что Киев получит танки и истребители западного производства так же, как было получено другое оружие, которое изначально США запрещали поставлять. Об этом глава украинского Минобороны заявил в интервью газете Politico. Он вспомнил, как в ноябре 2021 года приехал в Вашингтон и попросил зенитные ракеты Stinger, но ему отказали. «Я спросил их почему. Ответ был: потому что это запрещено законом... и политические вопросы», — отметил Резников. Затем в январе 2022-го Украина получила первую поставку из Литвы. «Это были Stinger, и мы получили их с разрешения США. Так что для меня это пример того, что, если вы слышите, что это невозможно, это означает, что это будет возможно в будущем», — сказал Резников.  По мнению министра, как только Украина получит первый танк Abrams, следом будут танки Leopard, немецкие боевые машины пехоты Marder и другие виды тяжелой бронетехники. После того как осенью прошлого года в СМИ появилась информация о возможности вооруженного конфликта между Россией и Украиной, Запад стал поставлять на Украину вооружения. Поначалу Запад поставлял ПТРК Javelin и ПЗРК Stinger. Однако уже после начала боевых действий Украина стала получать более тяжелые виды вооружения.  При этом Запад пока не поставляет Украине современные танки, ограничиваясь лишь усовершенствованными моделями советских танков, которые есть в распоряжении некоторых стран НАТО. Как писало издание Politico со ссылкой на американских чиновников, источники в конгрессе и собеседников с украинской стороны, США и Германия медлят с поставками на Украину танков «отчасти из-за проблем с обучением и логистикой». При этом, по мнению одного из собеседников, немецкие Leopard больше подходят для боевых действиях на Украине, поскольку более схожи с советскими танками и требуют меньше топлива, чем Abrams. При этом министр обороны ФРГ Кристина Ламбрехт отметила, что Берлину не хочется предоставлять Украине танки западных образцов в одиночку. Она отметила, что пока ни одна страна не пошла на такой шаг. Российские власти неоднократно критиковали западные страны за военную помощь Украине. В МИДе заявляли, что поставка Киеву дальнобойных и более мощных средств поражения станет «красной линией» для Москвы.</rbc_news:full-text>
+      <rbc_news:anons>Министр обороны Украины Алексей Резников считает, что Киев получит танки и истребители западного производства так же, как было получено другое оружие, которое изначально США запрещали поставлять.</rbc_news:anons>
+      <rbc_news:news_id>6358b92d9a7947000cec9d6f</rbc_news:news_id>
+      <rbc_news:tag>Украина</rbc_news:tag>
+      <rbc_news:tag>танки</rbc_news:tag>
+      <rbc_news:tag>ВСУ</rbc_news:tag>
+      <rbc_news:tag>Германия</rbc_news:tag>
+      <rbc_news:tag>США</rbc_news:tag>
+      <rbc_news:tag>поставки вооружения</rbc_news:tag>
+      <rbc_news:tag>Abrams</rbc_news:tag>
+      <rbc_news:type>short_news</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666762098</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 08:43:53 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/4/21/756667612906214.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/4/21/756667612906214.jpg</rbc_news:url>
+        <rbc_news:source>Jens Schlueter / Getty Images</rbc_news:source>
+        <rbc_news:description>Танк Leopard</rbc_news:description>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/politics/23/10/2022/63546ac79a79475854c56cce">
+          <rbc_news:title><![CDATA[В Белгородской области начали устанавливать противотанковые сооружения]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/04/10/2022/633bb23f9a79477ce24a1bb0">
+          <rbc_news:title><![CDATA[Минобороны показало видео уничтожения колонны танков ВСУ]]></rbc_news:title>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>08:28:18</rbc_news:time>
+    </item>
+    <item>
+      <title>«Коммерсантъ» узнал о покупке Москвой топлива у Минска по высоким ценам</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358b9e29a794700fed4f628</link>
+      <pubDate>Wed, 26 Oct 2022 08:22:14 +0300</pubDate>
+      <description>Москва поддержит Минск в условиях санкций и потери украинского рынка для нефтепродуктов, закуплено дизтопливо с белорусских НПЗ для реализации в России по высоким ценам, разницу компенсируют из федерального бюджета, пишет издание</description>
+      <category>Политика</category>
+      <author>Михаил Добрунов</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358b9e29a794700fed4f628</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358b9e29a794700fed4f628</rbc_news:pdalink>
+      <rbc_news:full-text>Россия за счет демпферных выплат субсидирует из федерального бюджета поставки нефтепродуктов от белорусских нефтеперерабатывающих заводов (НПЗ), которые прежде были убыточными. Схема предусматривает закупку государственным «Промсырьеимпортом» белорусского дизельного топлива, пишет «Коммерсантъ» со ссылкой на источники. «Промсырьеимпорт» принадлежит Росимуществу. В рамках схемы поддержки белорусских НПЗ он закупит белорусское топливо по высоким ценам, после чего продаст на Санкт-Петербургской международной топливно-сырьевой бирже (СПбМТСБ), а разница в цене будет компенсирована из бюджета, рассказали собеседники издания. Пока поставки с НПЗ в Белоруссии невелики: за две недели, с 10 по 24 октября, они составили порядка 8,5 тыс. т межсезонного дизтоплива. Это порядка 5% от объема реализации на бирже межсезонного дизтоплива и около 3% от общих его поставок за этот период, оценили в консалтинговой компании в нефтегазовой сфере «Петромаркет». По данным газеты, выплаты по демпферу за такой объем могут составить 200 млн руб. В Минэнерго не ответили на запрос издания.  Проблемы со сбытом у белорусских НПЗ возникли после введения международных санкций и потери украинского рынка (прежде Минск обеспечивал 45% совокупного импорта бензина на Украину и 37% импорта дизтоплива, или 1,04 млн и 2,97 млн т соответственно). Российское правительство в этих условиях решило нарастить поставки их продукции для поддержки отрасли и обеспечения доходов соседнего государства, говорили в начале сентября источники «Коммерсанта» в Минфине и Минэнерго. Препятствием для реализации этого плана собеседники издания назвали демпфер для российских НПЗ, которые получают субсидии за поставки топлива на внутренний рынок; белорусские же заводы не могут их получить. Однако позднее, в сентябре, правительство наделило «Промсырьеимпорт» правом реализации в России бензина и дизтоплива, произведенных «иностранной организацией», а также правом претендовать на получение демпфера. Белорусский «Белнефтехим» подпадает под критерии иностранной организации. Ему принадлежат Мозырский и Новополоцкий нефтеперерабатывающие заводы. Белоруссия по итогам следующего года намерена получить от России 1,7 млрд белорусских рублей ($680 млн) по обратному акцизу на нефть, рассказал БелТА глава республиканского Минфина Юрий Селиверстов. </rbc_news:full-text>
+      <rbc_news:anons>Москва поддержит Минск в условиях санкций и потери украинского рынка для нефтепродуктов, закуплено дизтопливо с белорусских НПЗ для реализации в России по высоким ценам, разницу компенсируют из федерального бюджета, пишет издание</rbc_news:anons>
+      <rbc_news:news_id>6358b9e29a794700fed4f628</rbc_news:news_id>
+      <rbc_news:tag>Белоруссия</rbc_news:tag>
+      <rbc_news:tag>поставки нефти</rbc_news:tag>
+      <rbc_news:tag>НПЗ</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666761734</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 10:15:12 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/4/95/756667609943954.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/4/95/756667609943954.jpg</rbc_news:url>
+        <rbc_news:source>Илья Галахов / Global Look Press</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/economics/24/10/2022/6356602f9a79474d53b992f8">
+          <rbc_news:title><![CDATA[Китай в сентябре снизил закупки угля и нефти у России]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/23/10/2022/63548ae49a79476267793af6">
+          <rbc_news:title><![CDATA[Bloomberg сообщил о подготовке Россией «теневого флота» нефтетанкеров]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/6337a3489a794721563697e6">
+          <rbc_news:title><![CDATA[В Бразилию поступила первая партия дизельного топлива из России]]></rbc_news:title>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>08:22:14</rbc_news:time>
+    </item>
+    <item>
+      <title>Эксперты назвали риски для бюджета из-за роста нагрузки на бизнес</title>
+      <link>https://www.rbc.ru/economics/26/10/2022/6357cc4a9a7947c03cfaaa97</link>
+      <pubDate>Wed, 26 Oct 2022 08:00:28 +0300</pubDate>
+      <description>В следующем году нефтегазовые доходы казны просядут, компенсировать их будет увеличение налоговой нагрузки, говорится в экспертных заключениях на бюджет. Но у ряда мер может быть негативный фискальный эффект, считают эксперты</description>
+      <category>Экономика</category>
+      <author>Инна Деготькова, Анна Гальчева</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6357cc4a9a7947c03cfaaa97</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/economics/26/10/2022/6357cc4a9a7947c03cfaaa97</rbc_news:pdalink>
+      <rbc_news:full-text>Запланированное в проекте бюджета увеличение налоговых ставок и введение новых фискальных инструментов призвано частично компенсировать выпадающие нефтегазовые доходы, но может ударить по другим источникам налоговых поступлений, инвестициям и деловому климату, говорится в нескольких экспертных заключениях на проект бюджета 2023 года и планового периода 2024 и 2025 годов, поступивших в профильный комитет по бюджету и налогам. Госдума рассмотрит проект бюджета в первом чтении 26 октября. В 2023 году нефтегазовые доходы бюджета снизятся на 23% по сравнению с этим годом на фоне санкций против нефтегазового сектора, следует из материалов к бюджету. В следующие два года они продолжат снижаться, хотя и меньшими темпами. Нивелировать сокращение власти планируют с помощью целого ряда фискальных нововведений, в основном — для сырьевого сектора. Но увеличение налогового бремени может принести дивиденды в краткосрочном периоде как антикризисная мера, однако в средне- и долгосрочной перспективе такой подход способен навредить, предупреждают эксперты. «Увеличение налоговой нагрузки в текущих условиях приведет к прямо противоположному фискальному эффекту: в результате ухудшения положения компаний из-за возросшей на них нагрузки бюджета система недополучит налоги. Тренд на хаотичное и «ползучее» повышение нагрузки нужно прекратить», — говорится в отзыве Российского союза промышленников и предпринимателей (РСПП).   Сырьевые налоги  Для сырьевого сектора в 2023–2025 годах предусмотрено несколько мер, которые должны обеспечить поступление дополнительных доходов. Среди них — повышение ставки экспортной пошлины и акциза на природный газ, повышенная ставка по налогу на прибыль от экспортеров СПГ, введение экспортной пошлины на удобрения и уголь. Повышение НДПИ на газ и уголь может привести к росту цен на отдельные товары ТЭК, предупреждают в РСПП. Расходы промышленных потребителей вырастут, а вкупе со снижением экономических показателей возникает риск того, что бюджет недополучит доходы от них, отмечается в отзыве. Сверхдоходы, которые планируется изъять путем повышения НДПИ, были получены по итогам 2022 года, напоминают эксперты РАНХиГС и Института Гайдара в совместном заключении. «Однако в 2023 году будет реализован отложенный эффект от введенных санкций против России, что может создать трудности по выплатам повышенных налогов», — указывают эксперты. Кроме того, изъятие дополнительных доходов через повышение НДПИ и экспортной пошлины на газ ставит под вопрос выплаты дивидендов в 2023 году, а также инвестиции в новые проекты (например, в инфраструктуру транспортировки СПГ для перераспределения экспортных потоков газовой отрасли в условиях санкций), добавляют эксперты.   Акциз на газировку  Еще одна причина беспокойства бизнеса и экспертов — индексация ставок действующих акцизов, а также установление нового акциза — на сахаросодержащие напитки. Предполагается, что акциз на газировку начнет действовать с 2023 года и его ставка составит 7 руб. за литр. Пока соответствующий законопроект прошел в Госдуме только первое чтение, однако доходы от акциза уже учтены в проекте бюджета в размере 35 млрд руб. ежегодно. Собранные средства должны пойти на финансирование мероприятий по борьбе с сахарным диабетом. «Деловая Россия», Институт экономики РАН, а также РАНХиГС и Институт Гайдара критикуют это нововведение как увеличивающее нагрузку на бизнес и доходы населения. Эксперты РАНХиГС прогнозируют рост цен и, как следствие, сокращение спроса, объемов производства, возможный переход части производителей в теневой сектор, сокращение доходов от НДС. «Увеличение налоговой нагрузки на граждан в нынешних условиях нельзя признать рациональным решением, так как отрицательных последствий от акциза на газировку будет больше, чем положительных изменений для экономики и здоровья общества», — констатируют авторы заключения. Кроме того, эксперты РАНХиГС не исключают, что впоследствии будет расширен перечень подакцизной сахаросодержащей продукции, в который помимо газировки могут войти соки, нектары, конфеты, шоколад и прочие кондитерские изделия. Это увеличит потребительские цены и ограничит покупательную способность, а акциз станет «акцизом на бедных», предупреждают они. В том, что введение акциза на сладкие напитки уменьшит их потребление, сомневаются в ИЭ РАН. Мера носит «фискальный характер», ее «регуляторная нагрузка ничтожна». Кроме того, целевое назначение акциза на лечение сахарного диабета может привести к перераспределению налоговых поступлений от производителей этих напитков, отмечают они. «Рост расходов, связанных с обслуживанием «подакцизного товара», приведет к сокращению их прибыли, а значит, и к сокращению поступлений данного налога в региональные бюджеты», — говорится в заключении. В Финансовом университете, в свою очередь, указывают на еще одну проблему ввиду роста цен из-за повышенных акцизов: при недостаточном и неэффективном контроле потребители начинают искать более дешевые, но менее качественные и безопасные заменители.   НДФЛ и имущественные налоги  С 2024 года в казну начнет поступать НДФЛ на доход по банковским вкладам, введение которого отложили на два года из-за кризиса. В первый год рассчитывают получить 101,6 млрд руб., следует из пояснительной записки к бюджету. Кроме этого, власти рассчитывают на рост поступлений 15-процентного НДФЛ «для богатых» (берется с годовых доходов выше 5 млн руб.). В результате доля подоходного налога в доходах федерального бюджета вырастет в два раза с текущих значений, подсчитали в Институте экономики РАН. Вместо 0,5% в 2022 году она составит 1% в 2025 году (большая часть доходов от НДФЛ идет в региональные бюджеты, а не в федеральный). Увеличение подоходного налога может «повысить уровень недовольства населения и степень имущественного расслоения общества», отмечают авторы заключения. С 2025 года правительство планирует рассчитывать налог на имущество бизнеса по кадастровой стоимости для всех объектов недвижимости, писал РБК. РСПП указывает, что у бизнеса нет понимания, как скорректируется налоговая нагрузка при переходе от балансовой к кадастровой стоимости при расчете имущественного налога. В случае существенного роста нагрузки необходимо снижение ставок налога, настаивают в союзе.</rbc_news:full-text>
+      <rbc_news:anons>В следующем году нефтегазовые доходы казны просядут, компенсировать их будет увеличение налоговой нагрузки, говорится в экспертных заключениях на бюджет. Но у ряда мер может быть негативный фискальный эффект, считают эксперты</rbc_news:anons>
+      <rbc_news:news_id>6357cc4a9a7947c03cfaaa97</rbc_news:news_id>
+      <rbc_news:tag>Бюджет</rbc_news:tag>
+      <rbc_news:tag>налоговая нагрузка</rbc_news:tag>
+      <rbc_news:tag>налоги</rbc_news:tag>
+      <rbc_news:tag>НДФЛ</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>economics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666760428</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 09:02:24 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/5/66/756667264772665.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/5/66/756667264772665.jpg</rbc_news:url>
+        <rbc_news:source>Александр Семенов / ТАСС</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/economics/20/10/2022/635121fc9a79476fc9e7cd7a">
+          <rbc_news:title><![CDATA[Мишустин поручил выделить ₽1 трлн на покрытие дефицита бюджета]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/economics/20/09/2022/6329bcf39a794741509265f9">
+          <rbc_news:title><![CDATA[Правительство заложило дефицитный бюджет до 2025 года]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>08:00:28</rbc_news:time>
+    </item>
+    <item>
+      <title>Военная операция на Украине. Онлайн</title>
+      <link>https://www.rbc.ru/textonlines/26/10/2022/6216fb4d9a79474dc80e8821</link>
+      <pubDate>Wed, 26 Oct 2022 07:30:03 +0300</pubDate>
+      <description>Президент России Владимир Путин 24 февраля объявил о начале спецоперации по «демилитаризации» и «денацификации» Украины. Что происходит на 245-й день операции, а также все самое важное о санкциях и других последствиях боевых действий</description>
+      <category>Политика</category>
+      <author>Редакция РБК</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6216fb4d9a79474dc80e8821</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/textonlines/26/10/2022/6216fb4d9a79474dc80e8821</rbc_news:pdalink>
+      <rbc_news:full-text>Президент России Владимир Путин 24 февраля объявил о начале спецоперации по «демилитаризации» и «денацификации» Украины. Что происходит на 245-й день операции, а также все самое важное о санкциях и других последствиях боевых действий</rbc_news:full-text>
+      <rbc_news:anons>Президент России Владимир Путин 24 февраля объявил о начале спецоперации по «демилитаризации» и «денацификации» Украины. Что происходит на 245-й день операции, а также все самое важное о санкциях и других последствиях боевых действий</rbc_news:anons>
+      <rbc_news:news_id>6216fb4d9a79474dc80e8821</rbc_news:news_id>
+      <rbc_news:tag>Украина</rbc_news:tag>
+      <rbc_news:tag>Россия</rbc_news:tag>
+      <rbc_news:tag>Донбасс</rbc_news:tag>
+      <rbc_news:tag>спецоперация</rbc_news:tag>
+      <rbc_news:type>online</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666758603</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 07:31:25 +0300</rbc_news:newsModifDate>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>07:30:03</rbc_news:time>
+      <rbc_news:online>http://rssexport.rbc.ru/yandex/rbcnews/online/6216fb4d9a79474dc80e8821.xml</rbc_news:online>
+    </item>
+    <item>
+      <title>WP сообщила, что Киев увидел в письме конгрессменов США сигнал для Путина</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358b0259a79470133b2af90</link>
+      <pubDate>Wed, 26 Oct 2022 07:03:38 +0300</pubDate>
+      <description>Украина сочла «обнадеживающим» для Путина призыв 30 конгрессменов-демократов к Байдену найти дипломатический выход из конфликта, однако вмешиваться в политику США в Киеве не намерены. Конгрессмены позднее отозвали письмо</description>
+      <category>Политика</category>
+      <author>Виктория Тютина, Михаил Добрунов</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358b0259a79470133b2af90</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358b0259a79470133b2af90</rbc_news:pdalink>
+      <rbc_news:full-text>Украина увидела в письме конгрессменов-демократов президенту США Джо Байдену с призывом к диалогу с Россией для прекращения конфликта сигнал для российского лидера Владимира Путина. Об этом сообщила The Washington Post со ссылкой на украинского чиновника. «Это обнадеживающий сигнал для Путина», — сказал собеседник газеты. По мнению другого собеседника издания, украинские власти опасаются вмешательства во внутренние дела США после скандала с импичментом экс-президента Дональда Трампа. Украинский чиновник заверил, что Киев не встает между республиканцами и демократами. «Это внутренняя политика другого государства. А то, что позиции по конфликту будут разными, это ожидаемо», — сказал он.  Группа из 30 конгрессменов-демократов призвали Байдена объединить беспрецедентную военную и экономическую поддержку с «активным дипломатическим подталкиванием, удвоив усилия по поиску реалистичных рамок для прекращения огня». Члены нижней палаты конгресса сочли, что альтернативой дипломатическому решению конфликта служит «затяжная война», с «катастрофическими и непостижимыми рисками». Конгрессмены, с одной стороны, согласились, что США не следует давить на Украину для принятия решений, однако указали, что как члены законодательного органа власти, которые отвечают за трату десятков миллиардов долларов налогоплательщиков США на военную помощь, считают необходимым для Вашингтона всерьез изучать все возможные пути для решения конфликта, в том числе прямой контакт с Москвой. В Белом доме затем сообщили, что знают о письме, а президент США ценит обеспокоенность конгрессменов. «[Президент Украины] мистер [Владимир] Зеленский должен определить, что считается успехом и когда вести переговоры, потому что это его страна», — подчеркнул при этом координатор по стратегическим коммуникациям в Совете национальной безопасности Белого дома Джон Кирби. При этом Зеленский отказался от переговоров с Россией, пока ею руководит Путин. Это произошло после референдумов о присоединении к России ДНР, ЛНР, Запорожской и Херсонской областей. Российский лидер говорил, что Москва готова к переговорам. «Если они созреют для этого — пожалуйста, тогда, наверное, будут востребованы и посреднические усилия всех, кто в этом заинтересован», — сказал он 14 октября на пресс-конференции в Астане. 25 октября конгрессмены отозвали свое обращение. Лидер прогрессивной фракции (состоит из наиболее левых членов Демократической партии) Прамила Джаяпал пояснила, что письмо не было должным образом проверено, его публикация была несвоевременной и произошла на фоне заявлений конгрессменов-республиканцев о возможном сокращении поддержки в адрес Украины в случае победы на выборах в ноябре. Могло сложиться впечатление о близости этих позиций, указала она.  На прошлой неделе лидер республиканцев в палате представителей США Кевин Маккарти счел, что Вашингтон не сможет оказывать Киеву поддержку в прежнем объеме из-за экономических сложностей. «Я думаю, что люди будут сидеть в условиях рецессии и не собираются выписывать Украине карт-бланш. Они просто не будут этого делать», — предположил конгрессмен. При этом лидер республиканского большинства в сенате Митч Макконелл призвал Белый дом нарастить поддержку Украины «для предотвращения российской агрессии». В Киеве словами Маккарти были шокированы, рассказал FT глава президентской партии «Слуга народа» Давид Арахамия. «Всего несколько недель назад наша делегация посетила Соединенные Штаты и встретилась с Маккарти. Нас заверили, что двухпартийная поддержка Украины в ее войне с Россией останется главным приоритетом, даже если они выиграют выборы», — отметил он. Российские власти неоднократно критиковали страны Запада за оказание военной помощи Украине. В Кремле заявляли, что цели военной операции будут выполнены, несмотря на поставки западного оружия Киеву. </rbc_news:full-text>
+      <rbc_news:anons>Украина сочла «обнадеживающим» для Путина призыв 30 конгрессменов-демократов к Байдену найти дипломатический выход из конфликта, однако вмешиваться в политику США в Киеве не намерены. Конгрессмены позднее отозвали письмо</rbc_news:anons>
+      <rbc_news:news_id>6358b0259a79470133b2af90</rbc_news:news_id>
+      <rbc_news:tag>США</rbc_news:tag>
+      <rbc_news:tag>Украина</rbc_news:tag>
+      <rbc_news:tag>Россия</rbc_news:tag>
+      <rbc_news:tag>Конгресс США</rbc_news:tag>
+      <rbc_news:tag>Владимир Путин</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666757018</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 08:46:12 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/0/76/756667631644760.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/0/76/756667631644760.jpg</rbc_news:url>
+        <rbc_news:source>Drew Angerer / Getty Images</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/politics/25/10/2022/635813eb9a7947dd37ec051f">
+          <rbc_news:title><![CDATA[Конгрессмены отозвали письмо в Белый дом с призывом к диалогу с Россией]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/24/10/2022/6356da9a9a794779d15fced9">
+          <rbc_news:title><![CDATA[Белый дом ответил на призыв 30 конгрессменов начать переговоры с Россией]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/22/10/2022/6353efcc9a7947415b67af9d">
+          <rbc_news:title><![CDATA[Лидеры республиканцев в конгрессе поспорили о военной помощи Украине]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>07:03:38</rbc_news:time>
+    </item>
+    <item>
+      <title>Эксперты предложили создать резервный фонд пенсионной системы</title>
+      <link>https://www.rbc.ru/economics/26/10/2022/6357d2299a7947c3c17121a3</link>
+      <pubDate>Wed, 26 Oct 2022 07:00:08 +0300</pubDate>
+      <description>Эксперты РАНХиГС и Института Гайдара в заключении на проект бюджета предложили создать резервный фонд пенсионной системы. Он должен быть целевым и расходоваться на выплату пенсий в случае форс-мажоров, считают авторы идеи</description>
+      <category>Экономика</category>
+      <author>Екатерина Виноградова</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6357d2299a7947c3c17121a3</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/economics/26/10/2022/6357d2299a7947c3c17121a3</rbc_news:pdalink>
+      <rbc_news:full-text>В России было бы целесообразно рассмотреть возможность создания резервного фонда пенсионной системы, четко регламентировать расчет стоимости пенсионных баллов и объема федеральных трансфертов во внебюджетные фонды, а также сократить число льгот по страховым взносам, из-за которых снижается финансовая обеспеченность солидарной пенсионной системы. Такие предложения содержатся в заключении РАНХиГС и Института экономической политики им. Е.Т. Гайдара на проект федерального бюджета на 2023–2025 годы (РБК ознакомился с документом).  Неучтенный фактор  Проект бюджета объединенного Социального фонда на 2023–2025 годы не содержит оценку влияния частичной мобилизации на доходы и расходы, говорится в отзыве институтов. Однако вклад этого фактора стоит учитывать в силу ряда причин, в частности, он может привести к снижению доходов Пенсионного фонда России (ПФР) в 2022 году. Это, в свою очередь, уменьшит остатки средств бюджета ПФР на конец текущего года. Кроме того, придется нарастить межбюджетный трансферт на возмещение расходов ПФР по выплате страховых пенсий в связи с зачетом в страховой стаж нестраховых периодов (времени прохождения военной службы в рамках мобилизации. — РБК). Военные действия также могут привести к росту расходов на выплату пенсий по инвалидности, полагают эксперты.   Защита пенсионной системы  В текущих условиях следовало бы произвести несколько изменений, чтобы повысить прозрачность пенсионной системы и защитить ее от воздействия неблагоприятных внешних факторов, полагают авторы заключения. К необходимым корректировкам они отнесли:  Утверждение методик расчета бюджетного трансферта и определения стоимости одного пенсионного коэффициента  Эти методики должны исходить из предпосылки о страховом характере системы обязательного пенсионного страхования (ОПС), при которой доходы от страховых взносов полностью покрывают расходы на выплаты страховых пенсий (без учета различных досрочных видов пенсий, федеральных доплат к страховым пенсиям, повышенных размеров фиксированной выплаты для лиц, достигших 80 лет, и т.д.). Соответственно, любые трансферты, направленные на покрытие этого базового дефицита, должны иметь четкую цель, связанную с установлением ставки страховых взносов ниже балансирующей, финансированием дополнительных выплат, валоризацию (переоценка пенсионных прав) или возмещение нестраховых периодов, говорится в заключении. Трансферт на выплату пенсий из федерального бюджета сильно зависит от стоимости пенсионного коэффициента, но с 2015 года этот расчет — во многом довольно «договорная» система, сказал РБК старший научный сотрудник Лаборатории исследований рынков труда и пенсионных систем ИНСАП РАНХиГС Виктор Ляшок. Правительство должно было выпустить методику расчета пенсионного коэффициента и трансферта, но не сделало этого, хотя такой шаг обеспечил бы понятность определения основных параметров пенсионной системы для всех заинтересованных сторон, отметил он. Согласно федеральному закону «О страховых пенсиях» ежегодное увеличение стоимости пенсионного коэффициента не может быть меньше индекса роста потребительских цен за прошедший год. С 1 июля 2022 года он составляет 118,09 руб. В 2023 году суммарный трансферт из федерального бюджета Соцфонду достигнет 5,08 трлн руб. — на 34,5% больше, чем в 2022 году, получат ПФР и Фонд социального страхования (ФСС), следует из проекта его бюджета. К 2025 году его объем вырастет до 5,56 трлн руб.  Создание резервного фонда пенсионной системы  В условиях возросшей экономической неопределенности и инфляционной волатильности будет оправданно формирование резервного фонда пенсионной системы, предназначенного для сглаживания последствий влияния макроэкономических колебаний на доходы Социального фонда и, следовательно, на размер пенсий и потребности в бюджетных трансфертах, говорится в заключении. Основная идея — в том, чтобы фонд был целевым и расходовался именно на выплату пенсий в случае форс-мажоров, кризисов, резкого снижения поступления страховых взносов, пояснил РБК Ляшок. Фонд национального благосостояния, который является основным инструментом накопления «на черный день» сегодня, слишком сложно «распечатывать», а если это делается, то средства могут идти на различные проекты. В неблагоприятных экономических условиях целесообразно зарезервировать часть средств конкретно на пенсии в отдельном фонде, чтобы обеспечить стопроцентное выполнение обязательств государства, полагает эксперт.   Пересмотр получателей льгот по страховым взносам  Активное расширение перечня работодателей-льготников (пониженные тарифы страховых взносов доступны малому и среднему бизнесу, ИТ-компаниям, резидентам территорий опережающего развития и т.д.) снижает устойчивость пенсионной системы, ухудшает возможности прогнозирования денежных потоков в пенсионный бюджет, превращает систему ОПС в инструмент экономической политики, которым она формально не является, говорится в заключении. В связи с этим представляется необходимым как минимум оценить эффективность льготного налогообложения с последующим уточнением перечня таких категорий и ограничить возможности для добавления новых категорий плательщиков, которые получают право на применение пониженных тарифов страховых взносов, делают вывод авторы заключения.</rbc_news:full-text>
+      <rbc_news:anons>Эксперты РАНХиГС и Института Гайдара в заключении на проект бюджета предложили создать резервный фонд пенсионной системы. Он должен быть целевым и расходоваться на выплату пенсий в случае форс-мажоров, считают авторы идеи</rbc_news:anons>
+      <rbc_news:news_id>6357d2299a7947c3c17121a3</rbc_news:news_id>
+      <rbc_news:tag>ПФР</rbc_news:tag>
+      <rbc_news:tag>пенсии</rbc_news:tag>
+      <rbc_news:tag>социальная политика</rbc_news:tag>
+      <rbc_news:tag>Бюджет</rbc_news:tag>
+      <rbc_news:tag>мобилизация</rbc_news:tag>
+      <rbc_news:tag>Институт Гайдара</rbc_news:tag>
+      <rbc_news:tag>РАНХиГС</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>economics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666756808</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 09:02:24 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/9/56/756667073398569.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/9/56/756667073398569.jpg</rbc_news:url>
+        <rbc_news:source>Владислав Шатило / РБК</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/economics/19/10/2022/634e9bf19a79472a56cbef1d">
+          <rbc_news:title><![CDATA[Счетная палата увидела риск недостижения цели по продолжительности жизни]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/economics/22/02/2022/62134f6e9a7947062aece99e">
+          <rbc_news:title><![CDATA[Федеральный трансферт на выплату пенсий в 2021 году сократился на ₽1 трлн]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/economics/21/10/2022/635117919a79476aef0ab54c">
+          <rbc_news:title><![CDATA[Средняя пенсия к 2026 году опустится ниже 30% средней зарплаты]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>07:00:08</rbc_news:time>
+    </item>
+    <item>
+      <title>Роскомнадзор заблокировал сайт проекта «Служба поддержки»</title>
+      <link>https://www.rbc.ru/rbcfreenews/6358aae49a7947fc635d127c</link>
+      <pubDate>Wed, 26 Oct 2022 06:45:59 +0300</pubDate>
+      <description>Доступ к сайту проекта «Служба поддержки» ограничен, следует из данных сервиса Роскомнадзора для проверки ограничения доступа к сайтам и страницам сайтов.</description>
+      <category>Технологии и медиа</category>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358aae49a7947fc635d127c</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/rbcfreenews/6358aae49a7947fc635d127c</rbc_news:pdalink>
+      <rbc_news:full-text>Доступ к сайту проекта «Служба поддержки» ограничен, следует из данных сервиса Роскомнадзора для проверки ограничения доступа к сайтам и страницам сайтов. Основанием для внесения сервиса в реестр Роскомнадзора стала ст. 15.3 (ограничение доступа к сайтам в интернете, содержащим информацию с призывами к массовым беспорядкам, осуществлению экстремистской деятельности или участию в массовых мероприятиях, проводимых с нарушением установленного порядка, недостоверную общественно значимую информацию). Внесение «Службы поддержки» в реестр основано на решении Генпрокуратуры от 18 октября. «Служба поддержки» состоит из телеграм-бота, куда можно обратиться за консультацией по поводу мобилизации, переезда, обысков, задержаний на митингах, эвакуации и т.д., за психологической помощью, и новостного медиа с историями людей, которых затронули боевые действия на Украине и их последствия.  Проект был создан в июне 2022 года журналистом и медиаменеджером Ильей Красильщиком. В апреле против Красильщика завели уголовное дело за распространение фейков о российской армии. Телеграм-канал Baza сообщал, что основанием стал пост журналиста о Буче. Летом МВД России объявило в Красильщика в розыск. </rbc_news:full-text>
+      <rbc_news:anons>Доступ к сайту проекта «Служба поддержки» ограничен, следует из данных сервиса Роскомнадзора для проверки ограничения доступа к сайтам и страницам сайтов.</rbc_news:anons>
+      <rbc_news:news_id>6358aae49a7947fc635d127c</rbc_news:news_id>
+      <rbc_news:tag>Роскомнадзор</rbc_news:tag>
+      <rbc_news:tag>блокировка</rbc_news:tag>
+      <rbc_news:type>short_news</rbc_news:type>
+      <rbc_news:newsline>technology_and_media</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666755959</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 08:52:30 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/8/31/756667635381318.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/8/31/756667635381318.jpg</rbc_news:url>
+        <rbc_news:source>РБК</rbc_news:source>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/rbcfreenews/634577549a7947244a87b579">
+          <rbc_news:title><![CDATA[Роскомнадзор сообщил, что обновляет список заблокированных в России VPN]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/rbcfreenews/62f5875f9a794708a7e7fdcc">
+          <rbc_news:title><![CDATA[Сообщество «ОВД-Инфо» заблокировали во «ВКонтакте»]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/01/10/2022/63389b4f9a79475185276d1c">
+          <rbc_news:title><![CDATA[Роскомнадзор заблокировал сервис с музыкой и подкастами SoundCloud]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>06:45:59</rbc_news:time>
+    </item>
+    <item>
+      <title>Россияне сократили размер ипотечных кредитов по аналогии с 2015 годом</title>
+      <link>https://www.rbc.ru/finances/26/10/2022/635669af9a794751dba5d51b</link>
+      <pubDate>Wed, 26 Oct 2022 06:00:05 +0300</pubDate>
+      <description>Средняя сумма ипотечного кредита снижается третий месяц подряд. Такого продолжительного сокращения на рынке не наблюдалось семь лет. Платежеспособность россиян упала, и они ищут более доступные варианты жилья, говорят эксперты</description>
+      <category>Финансы</category>
+      <author>Юлия Кошкина, Надежда Фёдорова</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::635669af9a794751dba5d51b</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/finances/26/10/2022/635669af9a794751dba5d51b</rbc_news:pdalink>
+      <rbc_news:full-text>Сентябрь стал третьим месяцем подряд, когда в России наблюдалось снижение среднего размера ипотечного кредита: показатель сократился на 2,2% по сравнению с августом, до 3,7 млн руб., следует из данных Frank RG (есть у РБК). За июль—сентябрь средний чек в ипотеке упал на 6,4%. Такое снижение нельзя назвать рекордным — например, в апреле этого года на пике кризиса показатель просел на 8,8%, — но продолжительное снижение средней величины ипотеки в России не фиксировалось семь лет: только в разгар кризиса в 2014–2015 годах средний чек падал на протяжении декабря—марта. Тогда он сократился на 6,1%, до 1,5 млн руб.  Крупные банки подтверждают тенденцию, некоторые игроки отмечают, что падение среднего чека ускорилось в октябре.  ВТБ зафиксировал сокращение средней суммы выдаваемой ипотеки еще в июне, сообщил представитель банка. За четыре месяца показатель уменьшился с 5,5 млн до 4,6 млн руб. в сентябре. «В октябре мы фиксируем дальнейшее снижение этого параметра — сейчас средний чек колеблется уже в пределах 4,2 млн руб.», — отмечает заместитель руководителя департамента розничного бизнеса ВТБ Евгений Дячкин. В целом по рынку тенденция снижения среднего размера ипотечного кредита прослеживается с июля 2022 года, но Росбанк зафиксировал такую динамику только в этом месяце, говорит руководитель «Росбанк Дом» Денис Ковалев: «В октябре мы действительно наблюдаем падение среднего чека на 7% месяц к месяцу и 400 тыс. руб. в денежном выражении (с 5,62 млн руб. в сентябре. — РБК)». «В ПСБ средний размер кредита по ипотеке на протяжении этого года держался на одном уровне, но в октябре мы увидели снижение среднего размера ипотеки более чем на 10%, в первую очередь по кредитам в рамках госпрограммы-2020», — сказал представитель Промсвязьбанка. Банк «Зенит» зафиксировал падение среднего чека в ипотеке на 5% в августе относительно июля и на 5% в сентябре по сравнению с предыдущим месяцем, отметил представитель кредитной организации. В Абсолют Банке сообщили, что наблюдали снижение среднего чека в ипотеке только до июля, когда рынок еще не восстановился. В Альфа-банке и «Открытии» отметили, что не фиксировали такую тенденцию. В Московском кредитном банке не раскрыли данных о динамике среднего размера ипотеки в последние месяцы. В остальных крупных банках не ответили на запрос РБК. Собеседники РБК в кредитных организациях подчеркивают, что в годовом выражении величина ипотечного кредита по-прежнему растет. По сравнению с сентябрем 2021-го средний для рынка показатель увеличился на 21,3%, следует из статистики Frank RG.   Как это связано с санкциями и кризисом  Представители банков и опрошенные РБК эксперты в основном связывают продолжительное уменьшение размера ипотеки с ситуацией на рынке недвижимости. «Снижение среднего размера ипотечного кредита в России на протяжении трех месяцев — это одновременно следствие и отражение непростой ситуации в геополитической и экономической сферах. На рубеже 2014–2015 годов также наблюдались кризисные явления, вызванные зарубежными санкциями и длительным спадом цен на энергоносители», — замечает управляющий партнер компании «Метриум» Надежда Коркка. По ее словам, сейчас платежеспособность россиян такова, что даже с помощью ипотеки они могут позволить себе «исключительно самые дешевые лоты». «Сокращается спрос на другие типы квартир и, как следствие, становится меньше средний размер ипотечного кредита. Даже при наличии стабильного дохода люди, собравшиеся решить квартирный вопрос, в условиях окружающей неопределенности предпочитают экономить и откладывать часть средств на черный день», — констатирует эксперт.  Потребительская активность снизилась, и это привело к коррекции цен на жилье, отмечает Ковалев из Росбанка: «Рынок вторичной недвижимости в третьем квартале оказался на качелях: выросла конкуренция за покупателя из-за увеличившегося объема предложения и увеличилась доля объектов со срочной продажей, где собственники были готовы снизить цену, чтобы ускорить сделку».  Что происходит с ценами на жилье после начала кризиса В начале 2022 года аналитики «Дом.РФ» фиксировали в России рост спроса на жилье и резкое ускорение выдачи ипотеки «в условиях неопределенности и резкого роста цен» (.pdf). Однако уже во втором квартале продажи недвижимости в новостройках резко упали: за апрель—июнь граждане зарегистрировали 97 тыс. договоров долевого участия, что на 48% уступало результатам первого квартала (.pdf). Тогда же номинальный рост цен на строящееся жилье замедлился до 6,4% против 8% в первом квартале. В «Дом.РФ» прогнозировали, что во втором полугодии рост стоимости квадратного метра «будет минимальным, а в целом за 2022 год жилье в новостройках подорожает не более чем на 15–20%». На вторичном рынке наблюдалась коррекция. Например, в апреле этого года в Москве было зафиксировано снижение цен на квартиры впервые за пять лет. По данным ЦИАН, с апреля по сентябрь стоимость 1 кв. м на вторичке в столице снизилась на 3%: с 316 тыс. до 307 тыс. руб.  Клиенты ищут более доступные варианты жилья, например отказываются от недвижимости бизнес-класса в пользу сегмента «комфорт», выбирают квартиры меньшей площади, перечисляет совладелец девелоперской группы «Родина» Владимир Щекин. Он также указывает, что ставки по ипотеке «больше нельзя считать низкими относительно цен на жилье и финансовых возможностей покупателей». Щекин напоминает, что на пике кризиса 2014–2015 годов средний чек в ипотеке падал вслед за возросшими ставками по кредитам. «Сейчас условия другие: ставки стабилизировались как по субсидированным кредитам, так и по ипотеке на рыночных условиях. Более того, значительная часть кредитов на рынке новостроек выдается по льготным программам со ставками 4–6%. Снижение среднего займа на этом фоне может указывать на то, что цены на новостройки стали слишком высокими для потенциальных покупателей», — заключает эксперт. На вторичном рынке, где нет льготных госпрограмм, растут и ставки, и цены, поэтому людям приходится сокращать размер ссуды, говорит Щекин. Снижение среднего размера ипотеки связано с перераспределением спроса заемщиков в пользу вторичного рынка недвижимости, добавляет Дячкин. «Например, в сентябре свыше 60% ипотеки ВТБ выдавал именно на готовые объекты. Сегмент вторички традиционно характеризуется более либеральной ценовой политикой, что, безусловно, сказывается на сумме кредитных средств, необходимых клиентам для покупки объекта», — замечает он. Аналогичную тенденцию зафиксировали и в ПСБ. «Те заемщики, которые имеют свободные денежные средства, в основном рассматривают покупку готового жилья в ипотеку с возможностью сразу вселиться в купленную квартиру», — указал представитель банка. Падение среднего чека в ипотеке может быть связано и с перераспределением выдач между регионами, допускает зампред Абсолют Банка Антон Павлов. По его словам, ипотечное кредитование сильнее сокращается «в регионах с большим чеком».  Как долго средний размер ипотеки будет снижаться  «Не исключено, что тренд на снижение чека продолжится в октябре—ноябре. На фоне мобилизации часть сделок на рынке завершалась с заметным дисконтом», — говорит заместитель директора группы рейтингов финансовых институтов агентства НКР Егор Лопатин. Он напоминает, что некоторые банки ужесточили риск-политику в отношении потенциальных заемщиков: это может выразиться в росте средней суммы первоначального взноса по ипотеке и снижении среднего чека.  «Вполне возможно, что этот процесс будет продолжаться долго, но у заемщиков есть еще один ресурс, чтобы сделать кредит более доступным, — время. Средний срок ипотечного кредита сейчас составляет около 21 года, тогда как у многих банков предельный срок — 30 лет», — отмечает Щекин. Впрочем, средний чек в ипотеке вновь может начать расти, если ставки по таким кредитам пойдут вниз, допускает эксперт. На фоне частичной мобилизации крупные российские банки начали повышать ставки по ипотеке и потребительским кредитам, писал РБК. Участники рынка ухудшали условия для заемщиков, несмотря на снижение ключевой ставки в сентябре. 28 октября состоится очередное заседание ЦБ по денежно-кредитной политике. Согласно консенсус-прогнозу Bloomberg и прогнозам опрошенных РБК экспертов, регулятор впервые с марта сделает паузу, сохранив ставку на текущем уровне — 7,5%.</rbc_news:full-text>
+      <rbc_news:anons>Средняя сумма ипотечного кредита снижается третий месяц подряд. Такого продолжительного сокращения на рынке не наблюдалось семь лет. Платежеспособность россиян упала, и они ищут более доступные варианты жилья, говорят эксперты</rbc_news:anons>
+      <rbc_news:news_id>635669af9a794751dba5d51b</rbc_news:news_id>
+      <rbc_news:tag>Банки</rbc_news:tag>
+      <rbc_news:tag>Ипотека</rbc_news:tag>
+      <rbc_news:tag>Недвижимость</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>finances</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666753205</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 09:02:25 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/6/40/756666215907406.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/6/40/756666215907406.jpg</rbc_news:url>
+        <rbc_news:source>Максим Константинов / Global Look Press</rbc_news:source>
+      </rbc_news:image>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/6/51/756666212225516.png" type="image/png" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/png</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/6/51/756666212225516.png</rbc_news:url>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/finances/12/10/2022/634684729a79476a9fa8870a">
+          <rbc_news:title><![CDATA[ЦБ разработал меры против пузыря из-за ипотеки по сверхнизким ставкам]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/finances/18/09/2022/632590889a7947ac68fafdc5">
+          <rbc_news:title><![CDATA[В ВТБ предсказали паузу в снижении ставок по ипотеке в России]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/finances/05/09/2022/6311d9769a7947b2f9f72f7d">
+          <rbc_news:title><![CDATA[Доля ипотеки впервые превысила половину в долгах россиян по кредитам]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>06:00:05</rbc_news:time>
+    </item>
+    <item>
+      <title>В МИДе заявили, что реакция США подтвердила опасения по «грязной бомбе»</title>
+      <link>https://www.rbc.ru/politics/26/10/2022/6358a1379a7947f96818a554</link>
+      <pubDate>Wed, 26 Oct 2022 05:57:27 +0300</pubDate>
+      <description>Украина и Запад рассчитывают, что после обвинения России «будет раскручена антироссийская кампания с целью изоляции Москвы на международной арене». «Но эти планы не пройдут», — заверили в российском МИДе</description>
+      <category>Политика</category>
+      <author>Виктория Тютина</author>
+      <guid isPermaLink="false">rssexport.rbc.ru::6358a1379a7947f96818a554</guid>
+      <rbc_news:pdalink>https://www.rbc.ru/politics/26/10/2022/6358a1379a7947f96818a554</rbc_news:pdalink>
+      <rbc_news:full-text>Слова представителя США на заседании Первого комитета Генассамблеи ООН подтвердили опасения России, что после провокации Киева с «грязной бомбой» Москву обвинят в применении тактического ядерного оружия. Об этом заявил замглавы российской делегации Константин Воронцов. «Делегация США лишь подтвердила наше предостережение относительно того, что будет разыгран сценарий, когда после провокации киевского режима, о чем у нас имеется самая достоверная информация, именно Россия будет обвинена в применении оружия массового поражения», — сказал дипломат (цитата по «РИА Новости»).  По словам Воронцова, Киев и западные страны рассчитывают, что после обвинения России «будет раскручена антироссийская кампания с целью подрыва доверия к Москве и ее изоляции на международной арене». «Но эти планы не пройдут», — заверил замглавы российской делегации. Он подчеркнул, что Россия предупредила мировое сообщество и требует от Украины и Запада прекратить «раскачивать ядерную лодку».  Американский представитель на заседании комитета Брюс Тернер ранее назвал заявления России о провокации с «грязной бомбой» «еще одним случаем дезинформации». По его словам, Москва «создает предлог для применения тактического оружия». Ранее глава Минобороны России Сергей Шойгу в ходе телефонных переговоров с главами оборонных ведомств Турции, Франции и Британии заявил о планах Украины совершить провокацию с «грязной бомбой».  Киев отверг обвинения и пригласил специалистов МАГАТЭ для инспекции, в ходе которой эксперты проверят два украинских ядерных объекта. Глава Пентагона Ллойд Остин 24 октября сообщил, что поговорил по телефону с генсеком НАТО Йенсом Столтенбергом и обсудил «ложные обвинения России в подготовке Украины к использованию «грязной бомбы». Пресс-секретарь российского президента Дмитрий Песков, в свою очередь, назвал подход Пентагона несерьезным и непозволительным. А постоянный представитель при ООН Василий Небензя предупредил, что, если Украина применит «грязную бомбу», Россия воспримет это в качестве акта «ядерного терроризма». </rbc_news:full-text>
+      <rbc_news:anons>Украина и Запад рассчитывают, что после обвинения России «будет раскручена антироссийская кампания с целью изоляции Москвы на международной арене». «Но эти планы не пройдут», — заверили в российском МИДе</rbc_news:anons>
+      <rbc_news:news_id>6358a1379a7947f96818a554</rbc_news:news_id>
+      <rbc_news:tag>МИД</rbc_news:tag>
+      <rbc_news:tag>США</rbc_news:tag>
+      <rbc_news:tag>бомба</rbc_news:tag>
+      <rbc_news:tag>Россия</rbc_news:tag>
+      <rbc_news:tag>Украина</rbc_news:tag>
+      <rbc_news:type>article</rbc_news:type>
+      <rbc_news:newsline>politics</rbc_news:newsline>
+      <rbc_news:newsDate_timestamp>1666753047</rbc_news:newsDate_timestamp>
+      <rbc_news:newsModifDate>Wed, 26 Oct 2022 11:32:35 +0300</rbc_news:newsModifDate>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/5/64/756667565416645.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/5/64/756667565416645.jpg</rbc_news:url>
+        <rbc_news:source>Валерий Шарифулин / ТАСС</rbc_news:source>
+      </rbc_news:image>
+      <enclosure url="https://edge-upvideo.rbc.ru/archive/2022/10/26/761711.7___mp4/720p.mp4" type="video/mp4" length=""/>
+      <rbc_news:video>
+        <rbc_news:url>https://edge-upvideo.rbc.ru/archive/2022/10/26/761711.7___mp4/720p.mp4</rbc_news:url>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+      </rbc_news:video>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/7/06/756667615984067.png" type="image/png" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/png</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/7/06/756667615984067.png</rbc_news:url>
+      </rbc_news:image>
+      <enclosure url="https://edge-upvideo.rbc.ru/archive/2022/10/25/707900.9___mp4/720p.mp4" type="video/mp4" length=""/>
+      <rbc_news:video>
+        <rbc_news:url>https://edge-upvideo.rbc.ru/archive/2022/10/25/707900.9___mp4/720p.mp4</rbc_news:url>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+      </rbc_news:video>
+      <enclosure url="https://s0.rbk.ru/v6_top_pics/media/img/7/50/756667078798507.jpg" type="image/jpeg" length="0"/>
+      <rbc_news:image>
+        <rbc_news:type>image/jpeg</rbc_news:type>
+        <rbc_news:size_nick>original</rbc_news:size_nick>
+        <rbc_news:copyright>limited</rbc_news:copyright>
+        <rbc_news:url>https://s0.rbk.ru/v6_top_pics/media/img/7/50/756667078798507.jpg</rbc_news:url>
+      </rbc_news:image>
+      <rbc_news:related_links>
+        <link url="https://www.rbc.ru/politics/26/10/2022/635844479a7947eaa5cb70f3">
+          <rbc_news:title><![CDATA[Полянский заявил о высокой угрозе применения Киевом «грязной бомбы»]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/25/10/2022/6357b61c9a7947b5fa5d2678">
+          <rbc_news:title><![CDATA[Песков назвал несерьезным подход США к заявлениям о «грязной бомбе»]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+        <link url="https://www.rbc.ru/politics/25/10/2022/635702139a7947824b009cb5">
+          <rbc_news:title><![CDATA[Небензя назвал применение «грязной бомбы» актом «ядерного терроризма»]]></rbc_news:title>
+          <rbc_news:thumbnail>
+            <rbc_news:type/>
+            <rbc_news:size_nick>original</rbc_news:size_nick>
+            <rbc_news:copyright>limited</rbc_news:copyright>
+          </rbc_news:thumbnail>
+        </link>
+      </rbc_news:related_links>
+      <rbc_news:date>26.10.2022</rbc_news:date>
+      <rbc_news:time>05:57:27</rbc_news:time>
+    </item>
+  </channel>
+</rss>

@@ -20,11 +20,10 @@ class ParserService
         protected ParserInterface         $parser,
     )
     {
-        $this->url = env('SOURCE_LINK');
+        $this->url = env('SOURCE_LINK', '');
     }
 
     /**
-     * @throws GuzzleException
      * @throws \Exception
      */
     public function parse(): void
